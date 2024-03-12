@@ -15,10 +15,10 @@ Interests: educational data mining, learning analytics, learning technologies, c
 | Position | Institution | Country | Lab / department | Advisor(s) | Duration |
 | ----- | ------- | ---- |---- | ----- | ----- |
 | **Postdoc** | Kyushu University | Japan | [Laboratory for Image and Media Understanding](https://limu.ait.kyushu-u.ac.jp/e/index.html) | [Atsushi Shimada](https://scholar.google.com/citations?user=gc2kslQAAAAJ&hl=en) | (current) |
-| Visiting researcher | Ateneo de Manila University | Philippines | [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) | [Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
-| Visiting researcher | Sorbonne Université | France | [MOCAH team at Laboratoire d'Informatique de Paris 6 (LIP6)](https://www.lip6.fr/recherche/team.php?acronyme=MOCAH&LANG=en) | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
+| Research stay | Ateneo de Manila University | Philippines | [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) | [Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
+| Research stay | Sorbonne Université | France | [MOCAH team at Laboratoire d'Informatique de Paris 6 (LIP6)](https://www.lip6.fr/recherche/team.php?acronyme=MOCAH&LANG=en) | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
 | **Postdoc** | University of Pennsylvania | USA | [Penn Center for Learning Analytics](https://learninganalytics.upenn.edu) | [Ryan S. Baker](https://scholar.google.com/citations?user=hvs8PEoAAAAJ&hl=en) | 1 year |
-| Visiting researcher | Northern Kentucky University | USA | [School of Computing and Analytics](https://www.nku.edu/academics/informatics/programs/sca/people.html) | [Ankur Chattopadhyay](https://scholar.google.com/citations?user=0fnIvYoAAAAJ&hl=en) | 1 month |
+| Research stay | Northern Kentucky University | USA | [School of Computing and Analytics](https://www.nku.edu/academics/informatics/programs/sca/people.html) | [Ankur Chattopadhyay](https://scholar.google.com/citations?user=0fnIvYoAAAAJ&hl=en) | 1 month |
 | **Ph.D.** | Masaryk University | Czechia | [Cybersecurity Laboratory](https://cybersec.fi.muni.cz/) | [Pavel Čeleda](https://scholar.google.com/citations?user=19TG5q8AAAAJ&hl=en), [Jan Vykopal](https://scholar.google.com/citations?user=DxVgP1kAAAAJ&hl=en) | 5 years |
 | Master's exchange program | University of Copenhagen | Denmark | [Department of Computer Science](https://di.ku.dk/english/) | – | 6 months |
 
