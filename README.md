@@ -67,7 +67,7 @@ Bibliometrics:
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
-| Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts | **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | Conference poster | LAK |
+| [Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) | **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | Conference poster | LAK |
 
 ### 2023
 
