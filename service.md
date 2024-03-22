@@ -20,7 +20,7 @@ This page lists my academic activities other than research publications, namely:
 
 | Date  | Presentation title | Conference | Location |
 | ----- | ---------- | ------------------ | -------- |
-| March 2024 | Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts | Learning Analytics and Knowledge | Kyoto, Japan |
+| March 2024 | [Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) | Learning Analytics and Knowledge | Kyoto, Japan |
 | March 2021 | [Toward Guidelines for Designing Cybersecurity Serious Games](https://dl.acm.org/doi/10.1145/3408877.3439568) | ACM SIGCSE Technical Symposium | Virtual presentation |
 | March 2021 | [The Stack: Unplugged Activities for Teaching Computer Science](https://dl.acm.org/doi/10.1145/3408877.3439569) | ACM SIGCSE Technical Symposium | Virtual presentation |
 | February 2019 | [Towards Learning Analytics in Cybersecurity Capture the Flag Games](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) | ACM SIGCSE Technical Symposium | Minneapolis, MN, USA |
