@@ -22,16 +22,18 @@ Interests: educational data mining, learning analytics, learning technologies, c
 | **Ph.D.** | Masaryk University | Czechia | [Cybersecurity Laboratory](https://cybersec.fi.muni.cz/) | [Pavel Čeleda](https://scholar.google.com/citations?user=19TG5q8AAAAJ&hl=en), [Jan Vykopal](https://scholar.google.com/citations?user=DxVgP1kAAAAJ&hl=en) | 5 years |
 | Master's exchange program | University of Copenhagen | Denmark | [Department of Computer Science](https://di.ku.dk/english/) | – | 6 months |
 
-### Scientific database identifiers
+### Scientific database metrics
 
-* ORCID: [0000-0001-8546-280X](https://orcid.org/0000-0001-8546-280X)
-* Scopus ID: [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)
-* WoS Researcher ID: [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)
+| Database       | Citations | h-index | Personal ID (profile link) |
+| -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
+| Google Scholar |       558 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
+| Scopus         |       296 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820) |
+| Web of Science |       175 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)   |
 
 ### External links
 
 * [Personal website](https://elea.sk/valdemar/)
-* [Google Scholar](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)
+* ORCID: [0000-0001-8546-280X](https://orcid.org/0000-0001-8546-280X)
 * Professional social networks:
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
 [Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
@@ -47,20 +49,15 @@ Interests: educational data mining, learning analytics, learning technologies, c
 [Zenodo](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD), 
 [Masaryk University](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
 
-## All publications
+## All peer-reviewed publications
 
 **Please use [references.bib](references.bib) to cite the papers.**
 
 Publication summary:
 
-* **7 journal papers** in international, peer-reviewed, and WoS-indexed journals
-* **16 conference papers** on international, peer-reviewed, and CORE-ranked conferences
-* **6 conference posters** (or other presentations) on international, peer-reviewed, and CORE-ranked conferences
-
-Bibliometrics:
-
-* **530 citations** on Google Scholar, 272 on Scopus, 161 on WoS
-* **h-index: 12** on Google Scholar, 9 on Scopus, 8 on WoS
+* **7 journal papers** in international WoS-indexed journals
+* **16 conference papers** on international CORE-ranked conferences
+* **6 conference posters** (or other presentations) on international CORE-ranked conferences
 * **37 distinct co-authors** on published work
 
 Legend:
