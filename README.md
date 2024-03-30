@@ -2,7 +2,7 @@
 
 Interests: educational data mining, learning analytics, learning technologies, cybersecurity education, computing education
 
-### Featured publications ⭐
+### Featured publications
 
 1. [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816) (Best Paper Award 🏆)
 2. [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.sciencedirect.com/science/article/pii/S0167404820304272)
@@ -79,7 +79,7 @@ Legend:
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
-| [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) | **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | Conference paper 🏆 ⭐ | EDM |
+| [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) | **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | Conference paper 🏆 | EDM |
 | [Automated Feedback for Participants of Hands-on Cybersecurity Training](https://link.springer.com/article/10.1007/s10639-023-12265-8) | **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Journal paper ⭐ | Springer EaIT |
 | [Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.](https://dl.acm.org/doi/10.1145/3587102.3588862) | L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | Conference paper | ACM ITiCSE |
 
@@ -111,7 +111,7 @@ Legend:
 | [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.sciencedirect.com/science/article/pii/S0167404820304272) | **V. Švábenský**, P. Čeleda, J. Vykopal, S. Brišáková | Journal paper ⭐ 🚀 | Elsevier CoSe |
 | [How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?](https://ieeexplore.ieee.org/document/9273962) | R. Motschnig, M. Silber, **V. Švábenský** | Conference paper | IEEE FIE |
 | [Teaching Lab: Training Novice Computer Science Teachers](https://dl.acm.org/doi/10.1145/3341525.3393967) | M. Ukrop, **V. Švábenský**, I. Nagy | Conference poster | ACM ITiCSE |
-| [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816) | **V. Švábenský**, J. Vykopal, P. Čeleda | Conference paper 🏆 ⭐ 🚀 | ACM SIGCSE |
+| [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816) | **V. Švábenský**, J. Vykopal, P. Čeleda | Conference paper 🏆 🚀 | ACM SIGCSE |
 | [KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems](https://dl.acm.org/doi/10.1145/3328778.3366908) | P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | Conference paper | ACM SIGCSE |
 | [Benefits and Pitfalls of Using Capture The Flag Games in University Courses](https://dl.acm.org/doi/10.1145/3328778.3366893) | J. Vykopal, **V. Švábenský**, E. Chang | Conference paper 🚀 | ACM SIGCSE |
 | [Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training](https://ieeexplore.ieee.org/document/9018081) | R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J. Čegan | Journal paper | IEEE TVCG |
