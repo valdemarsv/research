@@ -20,7 +20,7 @@ Interests: educational data mining, learning analytics, learning technologies, c
 | **Postdoc** | University of Pennsylvania | USA | [Penn Center for Learning Analytics](https://learninganalytics.upenn.edu) | [Ryan S. Baker](https://scholar.google.com/citations?user=hvs8PEoAAAAJ&hl=en) | 1 year |
 | Research stay | Northern Kentucky University | USA | [School of Computing and Analytics](https://www.nku.edu/academics/informatics/programs/sca/people.html) | [Ankur Chattopadhyay](https://scholar.google.com/citations?user=0fnIvYoAAAAJ&hl=en) | 1 month |
 | **Ph.D.** | Masaryk University | Czechia | [Cybersecurity Laboratory](https://cybersec.fi.muni.cz/) | [Pavel Čeleda](https://scholar.google.com/citations?user=19TG5q8AAAAJ&hl=en), [Jan Vykopal](https://scholar.google.com/citations?user=DxVgP1kAAAAJ&hl=en) | 5 years |
-| Master's exchange program | University of Copenhagen | Denmark | [Department of Computer Science](https://di.ku.dk/english/) | – | 6 months |
+| Master's exchange | University of Copenhagen | Denmark | [Department of Computer Science](https://di.ku.dk/english/) | – | 6 months |
 
 ### Scientific database metrics
 
