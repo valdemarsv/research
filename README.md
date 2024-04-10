@@ -72,7 +72,7 @@ Legend:
 | ----- | ------- | ---- | ----- |
 | From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises | **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | Conference paper | ACM ITiCSE |
 | Research and Practice of Delivering Tabletop Exercises | J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | Conference paper | ACM ITiCSE |
-| Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades | **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | Conference paper | ACM ITiCSE |
+| [Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades](https://arxiv.org/abs/2404.05988) | **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | Conference paper | ACM ITiCSE |
 | [Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) | **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | Conference poster | LAK |
 
 ### 2023
