@@ -113,7 +113,7 @@ Legend:
 | [Teaching Lab: Training Novice Computer Science Teachers](https://dl.acm.org/doi/10.1145/3341525.3393967) | M. Ukrop, **V. Švábenský**, I. Nagy | Conference poster | ACM ITiCSE |
 | [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816) | **V. Švábenský**, J. Vykopal, P. Čeleda | Conference paper 🏆 🚀 | ACM SIGCSE |
 | [KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems](https://dl.acm.org/doi/10.1145/3328778.3366908) | P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | Conference paper | ACM SIGCSE |
-| [Benefits and Pitfalls of Using Capture The Flag Games in University Courses](https://dl.acm.org/doi/10.1145/3328778.3366893) | J. Vykopal, **V. Švábenský**, E. Chang | Conference paper 🚀 | ACM SIGCSE |
+| [Benefits and Pitfalls of Using Capture The Flag Games in University Courses](https://dl.acm.org/doi/10.1145/3328778.3366893) | J. Vykopal, **V. Švábenský**, E. Chang | Conference paper | ACM SIGCSE |
 | [Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training](https://ieeexplore.ieee.org/document/9018081) | R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J. Čegan | Journal paper | IEEE TVCG |
 
 ### 2019
