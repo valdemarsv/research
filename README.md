@@ -26,9 +26,9 @@ Interests: educational data mining, learning analytics, learning technologies, c
 
 | Database       | Citations | h-index | Personal ID (profile link) |
 | -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
-| Google Scholar |       567 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
-| Scopus         |       309 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820) |
-| Web of Science |       185 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)   |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar |       576 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
+| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                |       309 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820) |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science     |       185 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)   |
 
 ### External links
 
