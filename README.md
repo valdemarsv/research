@@ -32,7 +32,7 @@ Interests: educational data mining, learning analytics, learning technologies, c
 
 ### External links
 
-* [Personal website](https://elea.sk/valdemar/)
+* 🌐 [Personal website](https://elea.sk/valdemar/)
 * ORCID: [0000-0001-8546-280X](https://orcid.org/0000-0001-8546-280X)
 * Professional social networks:
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
