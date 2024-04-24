@@ -51,10 +51,16 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 ## All 34 peer-reviewed publications – please use [references.bib](references.bib) to cite
 
+Breakdown:
 * **7 journal papers** in international WoS-indexed journals
 * **20 conference papers** in proceedings of international CORE-ranked conferences
 * **7 conference posters** (or other presentations) in proceedings of international CORE-ranked conferences
+
+Authorship:
+* **19x leading author** on published work
 * **52 distinct co-authors** on published work
+
+Legend:
 * 🏆 = Best Paper Award
 * ⭐ = Featured/Recommended Paper
 * 🚀 = Highly Cited Paper
