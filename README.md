@@ -56,9 +56,9 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 Publication summary:
 
 * **7 journal papers** in international WoS-indexed journals
-* **19 conference papers** on international CORE-ranked conferences
+* **20 conference papers** on international CORE-ranked conferences
 * **6 conference posters** (or other presentations) on international CORE-ranked conferences
-* **42 distinct co-authors** on published work
+* **47 distinct co-authors** on published work
 
 Legend:
 
@@ -70,6 +70,7 @@ Legend:
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
+| E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems | Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | Conference paper | EDM |
 | [From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises](https://arxiv.org/abs/2404.10988) | **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | Conference paper ⭐ | ACM ITiCSE |
 | [Research and Practice of Delivering Tabletop Exercises](https://arxiv.org/abs/2404.10206) | J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | Conference paper | ACM ITiCSE |
 | [Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades](https://arxiv.org/abs/2404.05988) | **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | Conference paper | ACM ITiCSE |
