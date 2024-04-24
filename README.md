@@ -8,7 +8,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 2. [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.sciencedirect.com/science/article/pii/S0167404820304272)
 3. [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) 🏆 (Best Paper Award)
 4. [Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering](https://link.springer.com/article/10.1007/s10639-022-10954-4)
-5. [Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training](https://www.sciencedirect.com/science/article/pii/S2352340921006806)
+5. [From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises](https://arxiv.org/abs/2404.10988)
 
 ### Academic appointments
 
