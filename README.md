@@ -49,19 +49,15 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 [Zenodo](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD), 
 [Masaryk University](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
 
-## All peer-reviewed publications
+## All 34 peer-reviewed publications – please use [references.bib](references.bib) to cite
 
-**Please use [references.bib](references.bib) to cite the papers.**
-
-Publication summary:
-
+Summary of publication outputs:
 * **7 journal papers** in international WoS-indexed journals
 * **20 conference papers** on international CORE-ranked conferences
 * **7 conference posters** (or other presentations) on international CORE-ranked conferences
 * **52 distinct co-authors** on published work
 
 Legend:
-
 * 🏆 = Best Paper Award
 * ⭐ = Featured/Recommended Paper
 * 🚀 = Highly Cited Paper
