@@ -69,7 +69,7 @@ Legend:
 
 | Title | Authors | Type | Venue |
 | ----- | ------- | ---- | ----- |
-| Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students | **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | Conference poster | EDM |
+| [Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students](https://arxiv.org/abs/2405.09821) | **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | Conference poster | EDM |
 | E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems | Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | Conference paper | EDM |
 | [From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises](https://arxiv.org/abs/2404.10988) | **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | Conference paper ⭐ | ACM ITiCSE |
 | [Research and Practice of Delivering Tabletop Exercises](https://arxiv.org/abs/2404.10206) | J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | Conference paper | ACM ITiCSE |
