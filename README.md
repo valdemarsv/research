@@ -26,9 +26,9 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 | Database       | Citations | h-index | Profile ID and link |
 | -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar |       576 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
-| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                |       309 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820) |
-| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science     |       185 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)   |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar |       582 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
+| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                |       318 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820) |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science     |       191 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)   |
 
 ### External links
 
