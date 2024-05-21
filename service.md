@@ -61,6 +61,7 @@ This page lists my academic activities other than research publications, namely:
 
 | Date  | Venue type | Venue name | Workload |
 | ----- | ---------- | ---------- | -------- |
+| May 2024 | Journal | ACM Transactions on Computing Education | 1 paper |
 | February 2024 | Journal | Educational Data Mining | 1 paper |
 | February 2024 | Journal | Springer Education and Information Technologies | 1 paper |
 | November 2023 | Journal | Springer Education and Information Technologies | 1 paper |
