@@ -119,17 +119,17 @@ Legend:
 
 ### 2019
 
-| Title | Authors | Type | Venue |
-| ----- | ------- | ---- | ----- |
-| [Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study](https://ieeexplore.ieee.org/document/9161386) | R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal | Conference paper | IEEE VizSec |
-| [Reflective Diary for Professional Development of Novice Teachers](https://dl.acm.org/doi/10.1145/3287324.3287448) | M. Ukrop, **V. Švábenský**, J. Nehyba | Conference paper 🚀 | ACM SIGCSE |
-| [Towards Learning Analytics in Cybersecurity Capture the Flag Games](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) | **V. Švábenský**, J. Vykopal, P. Čeleda | Conference poster | ACM SIGCSE |
-| [Analyzing User Interactions with Cybersecurity Games](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) | **V. Švábenský** | Conference competition entry | ACM SIGCSE |
+| Title + official link | Authors | Venue | Info |
+| --------------------- | ------- | ----- | ---- |
+| [Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study](https://ieeexplore.ieee.org/document/9161386) | R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal | IEEE VizSec (C) | [[pdf]](https://arxiv.org/pdf/1912.10781) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2019visual) |
+| [Reflective Diary for Professional Development of Novice Teachers](https://dl.acm.org/doi/10.1145/3287324.3287448) | M. Ukrop, **V. Švábenský**, J. Nehyba | ACM SIGCSE (C) | [[pdf]](https://arxiv.org/pdf/1811.02965) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2019reflective) 🚀 |
+| [Towards Learning Analytics in Cybersecurity Capture the Flag Games](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) | **V. Švábenský**, J. Vykopal, P. Čeleda | ACM SIGCSE (P) | [[pdf]](https://is.muni.cz/publication/1483457/2019-SIGCSE-toward-automated-feedback-system-educational-cybersecurity-games-poster.pdf) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019towards) |
+| [Analyzing User Interactions with Cybersecurity Games](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) | **V. Švábenský** | ACM SIGCSE (P) | [[pdf]](https://is.muni.cz/publication/1483458/cs) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019analyzing) |
 
 ### 2018
 
 | Title + official link | Authors | Venue | Info |
-| ----- | ------- | ---- | ----- |
+| --------------------- | ------- | ----- | ---- |
 | [Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools](https://ieeexplore.ieee.org/document/8658840) | **V. Švábenský**, J. Vykopal | IEEE FIE (C) | [[pdf]](https://arxiv.org/pdf/1903.04174) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018gathering) |
 | [Enhancing Cybersecurity Skills by Creating Serious Games](https://dl.acm.org/doi/10.1145/3197091.3197123) | **V. Švábenský**, J. Vykopal, M. Čermák, M. Laštovička | ACM ITiCSE (C) | [[pdf]](https://arxiv.org/pdf/1804.03567) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018enhancing) 🚀 | 
 | [Challenges Arising from Prerequisite Testing in Cybersecurity Games](https://dl.acm.org/doi/10.1145/3159450.3159454) | **V. Švábenský**, J. Vykopal | ACM SIGCSE (C) | [[pdf]](https://arxiv.org/pdf/1712.03163) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018challenges) | 
