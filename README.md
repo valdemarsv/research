@@ -99,14 +99,14 @@ Legend for the Info column:
 
 ### 2021
 
-| Title | Authors | Type | Venue |
-| ----- | ------- | ---- | ----- |
-| [Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training](https://www.sciencedirect.com/science/article/pii/S2352340921006806) | **V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda | Journal paper ⭐ | Elsevier DiB |
-| [Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training](https://ieeexplore.ieee.org/document/9637052) | **V. Švábenský**, J. Vykopal, D. Tovarňák, P. Čeleda | Conference paper | IEEE FIE |
-| [Scalable Learning Environments for Teaching Cybersecurity Hands-on](https://ieeexplore.ieee.org/document/9637180) | J. Vykopal, P. Čeleda, P. Seda, **V. Švábenský**, D. Tovarňák | Conference paper 🚀 | IEEE FIE |
-| [Reinforcing Cybersecurity Hands-on Training With Adaptive Learning](https://ieeexplore.ieee.org/document/9637252) | P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda | Conference paper | IEEE FIE |
-| [Toward Guidelines for Designing Cybersecurity Serious Games](https://dl.acm.org/doi/10.1145/3408877.3439568) | M. Gáliková, **V. Švábenský**, J. Vykopal | Conference poster | ACM SIGCSE |
-| [The Stack: Unplugged Activities for Teaching Computer Science](https://dl.acm.org/doi/10.1145/3408877.3439569) | **V. Švábenský**, M. Ukrop | Conference poster | ACM SIGCSE |
+| Title + official link | Authors | Venue | Info |
+| --------------------- | ------- | ----- | ---- |
+| [Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training](https://www.sciencedirect.com/science/article/pii/S2352340921006806) | **V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda | Elsevier DiB (J) | [[pdf]](https://is.muni.cz/publication/1793027/2021-DiB-dataset-shell-commands-used-participants-hands-on-cybersecurity-training-paper.pdf) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021dataset) ⭐ |
+| [Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training](https://ieeexplore.ieee.org/document/9637052) | **V. Švábenský**, J. Vykopal, D. Tovarňák, P. Čeleda | IEEE FIE (C) | [[pdf]](https://arxiv.org/pdf/2112.11118) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021toolset) |
+| [Scalable Learning Environments for Teaching Cybersecurity Hands-on](https://ieeexplore.ieee.org/document/9637180) | J. Vykopal, P. Čeleda, P. Seda, **V. Švábenský**, D. Tovarňák | IEEE FIE (C) | [[pdf]](https://arxiv.org/pdf/2110.10004) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2021scalable) 🚀 |
+| [Reinforcing Cybersecurity Hands-on Training With Adaptive Learning](https://ieeexplore.ieee.org/document/9637252) | P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda | IEEE FIE (C) | [[pdf]](https://arxiv.org/pdf/2201.01574) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Seda2021reinforcing) |
+| [Toward Guidelines for Designing Cybersecurity Serious Games](https://dl.acm.org/doi/10.1145/3408877.3439568) | M. Gáliková, **V. Švábenský**, J. Vykopal | ACM SIGCSE (P) | [[pdf]](https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-abstract.pdf) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Galikova2021toward) |
+| [The Stack: Unplugged Activities for Teaching Computer Science](https://dl.acm.org/doi/10.1145/3408877.3439569) | **V. Švábenský**, M. Ukrop | ACM SIGCSE (P) | [[pdf]](https://is.muni.cz/publication/1701737/2021-SIGCSE-stack-unplugged-activities-teaching-computer-science-abstract.pdf) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021thestack) |
 
 ### 2020
 
