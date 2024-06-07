@@ -1,4 +1,4 @@
-## Researcher profile and [CV](https://elea.sk/valdemar/cv.pdf)
+## Researcher profile
 
 Interests: educational data mining, learning analytics, AI in education, learning technologies, cybersecurity education
 
@@ -26,28 +26,30 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 | Database       | Citations | h-index | Profile ID and link |
 | -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar |       582 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar |       599 |      12 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en) |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                |       318 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820) |
 | <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science     |       191 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)   |
 
 ### External links
 
-* [Personal website](https://elea.sk/valdemar/)
+* [Personal website](https://elea.sk/valdemar/) and [CV](https://elea.sk/valdemar/cv.pdf)
 * ORCID: [0000-0001-8546-280X](https://orcid.org/0000-0001-8546-280X)
 * Professional social networks:
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
 [Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
 [LinkedIn](https://www.linkedin.com/in/valdemarsvabensky/),
 [Twitter](https://twitter.com/svabenskyv)
-* Profiles at individual publishers:
-[ACM](https://dl.acm.org/profile/99659243770),
-[IEEE](https://ieeexplore.ieee.org/author/37088024250),
-[Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
 * Other profiles:
 [ArXiv](https://arxiv.org/a/svabensky_v_1.html), 
 [DBLP](https://dblp.org/pid/211/6869.html),
 [Zenodo](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD), 
 [Masaryk University](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
+<!---
+* Profiles at individual publishers:
+[ACM](https://dl.acm.org/profile/99659243770),
+[IEEE](https://ieeexplore.ieee.org/author/37088024250),
+[Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
+-->
 
 ## All 34 peer-reviewed publications – please use [references.bib](references.bib) to cite
 
