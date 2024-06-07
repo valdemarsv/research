@@ -81,11 +81,11 @@ Legend for the Info column:
 
 ### 2023
 
-| Title | Authors | Type | Venue |
-| ----- | ------- | ---- | ----- |
-| [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) | **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | Conference paper 🏆 | EDM |
-| [Automated Feedback for Participants of Hands-on Cybersecurity Training](https://link.springer.com/article/10.1007/s10639-023-12265-8) | **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Journal paper ⭐ | Springer EaIT |
-| [Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.](https://dl.acm.org/doi/10.1145/3587102.3588862) | L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | Conference paper | ACM ITiCSE |
+| Title + official link | Authors | Venue | Info |
+| --------------------- | ------- | ----- | ---- |
+| [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) | **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | EDM (C) | [[pdf]](https://arxiv.org/pdf/2307.07614) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 🏆 |
+| [Automated Feedback for Participants of Hands-on Cybersecurity Training](https://link.springer.com/article/10.1007/s10639-023-12265-8) | **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT (J) | [[pdf]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) ⭐ |
+| [Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.](https://dl.acm.org/doi/10.1145/3587102.3588862) | L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | ACM ITiCSE (C) | [[pdf]](https://arxiv.org/pdf/2307.07608) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) |
 
 ### 2022
 
