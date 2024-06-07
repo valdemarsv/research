@@ -56,10 +56,9 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * **7 journal papers (J)** in international WoS-indexed journals
 * **20 conference papers (C)** in proceedings of international CORE-ranked conferences
 * **7 conference posters (P)** or other presentations in proceedings of international CORE-ranked conferences
-
-Authorship:
-* **19x leading author** on published work
-* **52 distinct co-authors** on published work
+* Authorship:
+  * **19x leading author**
+  * **52 distinct co-authors**
 
 Legend for the Info column:
 * [pdf] = Preprint or a personal author's copy (for the official publisher's version, see the link in the Title column)
