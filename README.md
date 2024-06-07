@@ -70,14 +70,14 @@ Legend for the Info column:
 
 ### 2024
 
-| Title | Authors | Type | Venue |
-| ----- | ------- | ---- | ----- |
-| [Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students](https://arxiv.org/abs/2405.09821) | **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | Conference poster | EDM |
-| E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems | Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | Conference paper | EDM |
-| [From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises](https://arxiv.org/abs/2404.10988) | **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | Conference paper ⭐ | ACM ITiCSE |
-| [Research and Practice of Delivering Tabletop Exercises](https://arxiv.org/abs/2404.10206) | J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | Conference paper | ACM ITiCSE |
-| [Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades](https://arxiv.org/abs/2404.05988) | **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | Conference paper | ACM ITiCSE |
-| [Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) | **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | Conference poster | LAK |
+| Title + official link | Authors | Venue | Info |
+| --------------------- | ------- | ----- | ---- |
+| [Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students](https://arxiv.org/abs/2405.09821) | **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM (P) | [[pdf]](https://arxiv.org/pdf/2405.09821) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) |
+| E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems | Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM (C) | [pdf] [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec) |
+| [From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises](https://arxiv.org/abs/2404.10988) | **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | ACM ITiCSE (C) | [[pdf]](https://arxiv.org/pdf/2404.10988) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024from) ⭐ |
+| [Research and Practice of Delivering Tabletop Exercises](https://arxiv.org/abs/2404.10206) | J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCSE (C) | [[pdf]](https://arxiv.org/pdf/2404.10206) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) |
+| [Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades](https://arxiv.org/abs/2404.05988) | **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | ACM ITiCSE (C) | [[pdf]](https://arxiv.org/pdf/2404.05988) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) |
+| [Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) | **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | LAK (P) | [[pdf]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-poster.pdf) [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) |
 
 ### 2023
 
