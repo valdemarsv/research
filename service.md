@@ -61,17 +61,17 @@ This page lists my academic activities other than research publications, namely:
 ### Peer review for journals (7 papers)
 
 * Springer Education and Information Technologies (EaIT): 3 papers total
- * February 2024
- * November 2023
- * April 2023
+  * February 2024
+  * November 2023
+  * April 2023
 * ACM Transactions on Computing Education (TOCE): 1 paper total
- * May 2024
+  * May 2024
 * Journal of Educational Data Mining (JEDM): 1 paper total
- * February 2024
+  * February 2024
 * Elsevier Computers & Security (CoSe): 1 paper total
- * November 2021
+  * November 2021
 * IEEE Transactions on Education (ToE): 1 paper total
- * December 2020
+  * December 2020
 
 ### Peer review for conferences (15 papers)
 
