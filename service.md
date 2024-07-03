@@ -5,7 +5,7 @@ This page lists my academic activities other than research publications, namely:
 
 ## 1) Conference talks
 
-### Conference paper presentations
+### Conference paper presentations (6 talks)
 
 | Date  | Presentation title | Conference | Location |
 | ----- | ---------- | ------------------ | -------- |
@@ -16,7 +16,7 @@ This page lists my academic activities other than research publications, namely:
 | July 2018 | [Enhancing Cybersecurity Skills by Creating Serious Games](https://dl.acm.org/doi/10.1145/3197091.3197123) | ACM Conference on Innovation and Technology in Computer Science Education | Larnaca, Cyprus |
 | February 2018 | [Challenges Arising from Prerequisite Testing in Cybersecurity Games](https://dl.acm.org/doi/10.1145/3159450.3159454) | ACM SIGCSE Technical Symposium | Baltimore, MD, USA |
 
-### Conference poster and other presentations
+### Conference poster and other presentations (5 talks)
 
 | Date  | Presentation title | Conference | Location |
 | ----- | ---------- | ------------------ | -------- |
@@ -28,7 +28,7 @@ This page lists my academic activities other than research publications, namely:
 
 ## 2) Invited talks
 
-### Invited research talks for a highly specialized audience
+### Invited research talks for a highly specialized audience (8 talks)
 
 | Date  | Presentation title | Venue / institution | Occasion | Location |
 | ----- | ------------------ | ------------------- | -------- | -------- |
@@ -39,8 +39,9 @@ This page lists my academic activities other than research publications, namely:
 | February 2023 | Detection of Student Success in Cybersecurity Exercises | Carnegie Mellon University | Informatics colloquium | Pittsburgh, PA, USA |
 | February 2023 | Approaches to Cybersecurity Education and Training | Ateneo de Manila University | Informatics colloquium | Virtual presentation |
 | March 2022 | [Scalable Learning Environments for Teaching Cybersecurity Hands-on](https://ieeexplore.ieee.org/document/9637180) | Northern Kentucky University | Informatics colloquium | Highland Heights, KY, USA |
+| June 2018 | KYPO Cyber Range Platform Capabilities | Masaryk University | Nation-wide research group meeting | Brno, Czech republic |
 
-### Other invited talks broadly related to my research or teaching
+### Other invited talks broadly related to my research or teaching (10 talks)
 
 | Date  | Presentation title | Venue / institution | Occasion | Location |
 | ----- | ------------------ | ------------------- | -------- | -------- |
@@ -57,7 +58,7 @@ This page lists my academic activities other than research publications, namely:
 
 ## 3) Academic service to the research community
 
-### Peer review
+### Peer review for journals
 
 | Date  | Venue type | Venue name | Workload |
 | ----- | ---------- | ---------- | -------- |
@@ -66,9 +67,16 @@ This page lists my academic activities other than research publications, namely:
 | February 2024 | Journal | Springer Education and Information Technologies | 1 paper |
 | November 2023 | Journal | Springer Education and Information Technologies | 1 paper |
 | April 2023 | Journal | Springer Education and Information Technologies | 1 paper |
-| March 2023 | Conference | Artificial Intelligence in Education (AIED) | 1 paper |
 | November 2021 | Journal | Elsevier Computers & Security | 1 paper |
 | December 2020 | Journal | IEEE Transactions on Education | 1 paper + its revision |
-| September 2020 | Conference | ACM SIGCSE Technical Symposium | 2 papers |
-| September 2019 | Conference | ACM SIGCSE Technical Symposium | 4 papers |
-| September 2018 | Conference | ACM SIGCSE Technical Symposium | 5 papers |
+
+### Peer review for conferences (15 papers)
+
+* ACM SIGCSE Technical Symposium: 11 papers total
+  * September 2020: 2 papers
+  * September 2019: 4 papers
+  * September 2018: 5 papers
+* International Conference on Computers in Education (ICCE): 3 papers total
+  * June 2024: 3 papers
+* Artificial Intelligence in Education (AIED): 1 paper total
+  * March 2023: 1 paper
