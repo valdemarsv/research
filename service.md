@@ -58,7 +58,7 @@ This page lists my academic activities other than research publications, namely:
 
 ## 3) Academic service to the research community
 
-### Peer review for journals (7 papers)
+### Peer review for journals (8 papers)
 
 * Springer Education and Information Technologies (EaIT): 3 papers total
   * February 2024
@@ -70,6 +70,8 @@ This page lists my academic activities other than research publications, namely:
   * February 2024
 * Elsevier Computers & Security (CoSe): 1 paper total
   * November 2021
+* IEEE Transactions on Learning Technologies (TLT): 1 paper total
+  * July 2024
 * IEEE Transactions on Education (ToE): 1 paper total
   * December 2020
 
