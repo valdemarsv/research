@@ -37,7 +37,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * Professional social networks:
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
 [Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
-[LinkedIn](https://www.linkedin.com/in/valdemarsvabensky/),
+[LinkedIn](https://www.linkedin.com/in/valdemars/),
 [Twitter](https://twitter.com/svabenskyv)
 * Other profiles:
 [ArXiv](https://arxiv.org/a/svabensky_v_1.html), 
