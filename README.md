@@ -109,79 +109,93 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 ### 2020
 
-* [14] [**Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges**](https://www.sciencedirect.com/science/article/pii/S0167404820304272) ⭐ 🚀 \
+* [14] ⭐ 🚀
+[**Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges**](https://www.sciencedirect.com/science/article/pii/S0167404820304272) \
 **V. Švábenský**, P. Čeleda, J. Vykopal, S. Brišáková || Elsevier CoSe (J) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2020cybersecurity) 
 [[preprint]](https://arxiv.org/pdf/2101.01421)
 
-* [13] [**How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?**](https://ieeexplore.ieee.org/document/9273962) \
+* [13] 
+[**How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?**](https://ieeexplore.ieee.org/document/9273962) \
 R. Motschnig, M. Silber, **V. Švábenský** || IEEE FIE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Motschnig2020how) 
 [[preprint]](https://arxiv.org/pdf/2101.00883)
 
-* [12] [**Teaching Lab: Training Novice Computer Science Teachers**](https://dl.acm.org/doi/10.1145/3341525.3393967) \
+* [12] 
+[**Teaching Lab: Training Novice Computer Science Teachers**](https://dl.acm.org/doi/10.1145/3341525.3393967) \
 M. Ukrop, **V. Švábenský**, I. Nagy || ACM ITiCSE (P) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2020teaching) 
 [[preprint]](https://is.muni.cz/publication/1647936/2020-ITiCSE-teaching-lab-training-novice-computer-science-teachers-poster.pdf)
 
-* [11] [**What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences**](https://dl.acm.org/doi/10.1145/3328778.3366816) 🏆 🚀 \
+* [11] 🏆 🚀 
+[**What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences**](https://dl.acm.org/doi/10.1145/3328778.3366816) \
 **V. Švábenský**, J. Vykopal, P. Čeleda || ACM SIGCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2020what) 
 [[preprint]](https://arxiv.org/pdf/1911.11675)
 
-* [10] [**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
+* [10] 
+[**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
 P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček || ACM SIGCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Celeda2020kypo) 
 [[preprint]](https://arxiv.org/pdf/2004.11575)
 
-* [9] [**Benefits and Pitfalls of Using Capture The Flag Games in University Courses**](https://dl.acm.org/doi/10.1145/3328778.3366893) \
+* [9] 
+[**Benefits and Pitfalls of Using Capture The Flag Games in University Courses**](https://dl.acm.org/doi/10.1145/3328778.3366893) \
 J. Vykopal, **V. Švábenský**, E. Chang || ACM SIGCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2020benefits) 
 [[preprint]](https://arxiv.org/pdf/2004.11556)
 
-* [8] [**Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9018081) \
+* [8] 
+[**Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9018081) \
 R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J. Čegan || IEEE TVCG (J) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2020conceptual)
 [[preprint]](https://arxiv.org/pdf/2003.03610)
 
 ### 2019
 
-* [7] [**Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study**](https://ieeexplore.ieee.org/document/9161386) \
+* [7] 
+[**Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study**](https://ieeexplore.ieee.org/document/9161386) \
 R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal || IEEE VizSec (conference paper) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2019visual)
 [[preprint]](https://arxiv.org/pdf/1912.10781)
 
-* [6] [**Reflective Diary for Professional Development of Novice Teachers**](https://dl.acm.org/doi/10.1145/3287324.3287448) 🚀 \
+* [6] 🚀 
+[**Reflective Diary for Professional Development of Novice Teachers**](https://dl.acm.org/doi/10.1145/3287324.3287448) \
 M. Ukrop, **V. Švábenský**, J. Nehyba || ACM SIGCSE (conference paper) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2019reflective)
 [[preprint]](https://arxiv.org/pdf/1811.02965)
 
-* [5] [**Towards Learning Analytics in Cybersecurity Capture the Flag Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) \
+* [5] 
+[**Towards Learning Analytics in Cybersecurity Capture the Flag Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) \
 **V. Švábenský**, J. Vykopal, P. Čeleda || ACM SIGCSE (conference poster) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019towards) 
 [[preprint]](https://is.muni.cz/publication/1483457/2019-SIGCSE-toward-automated-feedback-system-educational-cybersecurity-games-poster.pdf) 
 
-* [4] [**Analyzing User Interactions with Cybersecurity Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) \
+* [4] 
+[**Analyzing User Interactions with Cybersecurity Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) \
 **V. Švábenský** || ACM SIGCSE (conference poster) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019analyzing)
 [[preprint]](https://is.muni.cz/publication/1483458/cs)
 
 ### 2018
 
-* [3] [**Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools**](https://ieeexplore.ieee.org/document/8658840) \
+* [3] 
+[**Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools**](https://ieeexplore.ieee.org/document/8658840) \
 **V. Švábenský**, J. Vykopal || IEEE FIE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018gathering)
 [[preprint]](https://arxiv.org/pdf/1903.04174) 
 [[slides]](https://is.muni.cz/publication/1423243/2018-FIE-gathering-insights-teenagers-hacking-experience-authentic-cybersecurity-tools-presentation.pdf)
 
-* [2] [**Enhancing Cybersecurity Skills by Creating Serious Games**](https://dl.acm.org/doi/10.1145/3197091.3197123) 🚀 \
+* [2] 🚀 
+[**Enhancing Cybersecurity Skills by Creating Serious Games**](https://dl.acm.org/doi/10.1145/3197091.3197123) \
 **V. Švábenský**, J. Vykopal, M. Čermák, M. Laštovička || ACM ITiCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018enhancing)
 [[preprint]](https://arxiv.org/pdf/1804.03567)
 [[slides]](https://is.muni.cz/publication/1413088/2018-ITICSE-enhancing-cybersecurity-skills-creating-serious-games-presentation.pdf)
 [[materials]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index)
 
-* [1] [**Challenges Arising from Prerequisite Testing in Cybersecurity Games**](https://dl.acm.org/doi/10.1145/3159450.3159454) \
+* [1] 
+[**Challenges Arising from Prerequisite Testing in Cybersecurity Games**](https://dl.acm.org/doi/10.1145/3159450.3159454) \
 **V. Švábenský**, J. Vykopal || ACM SIGCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018challenges)
 [[preprint]](https://arxiv.org/pdf/1712.03163)
