@@ -251,7 +251,8 @@ M. Gáliková, **V. Švábenský**, J. Vykopal || ACM SIGCSE (P) \
 [**Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges**](https://www.sciencedirect.com/science/article/pii/S0167404820304272) \
 **V. Švábenský**, P. Čeleda, J. Vykopal, S. Brišáková || Elsevier CoSe (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2020cybersecurity) 
-[[preprint]](https://arxiv.org/pdf/2101.01421)
+[[preprint]](https://arxiv.org/pdf/2101.01421) 
+[[data and code]](https://zenodo.org/records/4160585) 
 
 * [13] 
 [**How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?**](https://ieeexplore.ieee.org/document/9273962) \
@@ -263,7 +264,9 @@ R. Motschnig, M. Silber, **V. Švábenský** || IEEE FIE (C) \
 [**Teaching Lab: Training Novice Computer Science Teachers**](https://dl.acm.org/doi/10.1145/3341525.3393967) \
 M. Ukrop, **V. Švábenský**, I. Nagy || ACM ITiCSE (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2020teaching) 
-[[preprint]](https://is.muni.cz/publication/1647936/2020-ITiCSE-teaching-lab-training-novice-computer-science-teachers-poster.pdf)
+[[preprint]](https://is.muni.cz/publication/1647936/2020-ITiCSE-teaching-lab-training-novice-computer-science-teachers-abstract.pdf)
+[[poster]](https://is.muni.cz/publication/1647936/2020-ITiCSE-teaching-lab-training-novice-computer-science-teachers-poster.pdf)
+[[course]](https://is.muni.cz/predmet/fi/DUCIT?lang=en)
 
 * [11] 🏆 🚀 
 [**What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences**](https://dl.acm.org/doi/10.1145/3328778.3366816) \
