@@ -182,7 +182,10 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda || IEEE TLT (J) \
 [**Preventing Cheating in Hands-on Lab Assignments**](https://dl.acm.org/doi/10.1145/3478431.3499420) \
 J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022preventing) 
-[[preprint]](https://arxiv.org/pdf/2201.01154)
+[[preprint]](https://arxiv.org/pdf/2201.01154) 
+[[slides]](https://is.muni.cz/publication/1816366/2022-SIGCSE-preventing-cheating-hands-on-lab-assignments-presentation.pdf) 
+[[code]](https://gitlab.fi.muni.cz/cybersec/apg) 
+[[platform]](https://crp.kypo.muni.cz/) 
 
 ### 2021
 
@@ -190,7 +193,9 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda || ACM SIGCSE (C) \
 [**Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training**](https://www.sciencedirect.com/science/article/pii/S2352340921006806) \
 **V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda || Elsevier DiB (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021dataset) 
-[[preprint]](https://is.muni.cz/publication/1793027/2021-DiB-dataset-shell-commands-used-participants-hands-on-cybersecurity-training-paper.pdf)
+[[preprint]](https://is.muni.cz/publication/1793027/2021-DiB-dataset-shell-commands-used-participants-hands-on-cybersecurity-training-paper.pdf) 
+[[data]](https://zenodo.org/doi/10.5281/zenodo.5137354) 
+[[data backup]](https://gitlab.ics.muni.cz/muni-kypo-trainings/datasets/commands) 
 
 * [19] 
 [**Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9637052) \
