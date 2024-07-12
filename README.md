@@ -88,13 +88,35 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 ### 2022
 
-| Title + official link | Authors | Venue | Info |
-| --------------------- | ------- | ----- | ---- |
-| [Smart Environment for Adaptive Learning of Cybersecurity Skills](https://ieeexplore.ieee.org/abstract/document/9926178) | J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) | [[preprint]](https://arxiv.org/pdf/2307.05281) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022smart) |
-| [Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training](https://link.springer.com/article/10.1007/s10639-022-11093-6) | **V. Švábenský**, J. Vykopal, P. Čeleda, L. Kraus | Springer EaIT (J) | [[preprint]](https://arxiv.org/pdf/2307.08582) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022applications) |
-| [Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering](https://link.springer.com/article/10.1007/s10639-022-10954-4) <img width="16" src="https://cdn.simpleicons.org/openaccess"> | **V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič | Springer EaIT (J) | [[preprint]](https://arxiv.org/pdf/2307.10260) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022student) ⭐ |
-| [Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises](https://dl.acm.org/doi/10.1145/3478431.3499414) <img width="16" src="https://cdn.simpleicons.org/openaccess"> | **V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE (C) | [[preprint]](https://arxiv.org/pdf/2112.02053) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) |
-| [Preventing Cheating in Hands-on Lab Assignments](https://dl.acm.org/doi/10.1145/3478431.3499420) | J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE (C) | [[preprint]](https://arxiv.org/pdf/2201.01154) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022preventing) 🏆 |
+* [25] 
+[**Smart Environment for Adaptive Learning of Cybersecurity Skills**](https://ieeexplore.ieee.org/abstract/document/9926178) \
+J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda || IEEE TLT (J) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022smart) 
+[[preprint]](https://arxiv.org/pdf/2307.05281)
+
+* [24] 
+[**Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-022-11093-6) \
+**V. Švábenský**, J. Vykopal, P. Čeleda, L. Kraus || Springer EaIT (J) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022applications) 
+[[preprint]](https://arxiv.org/pdf/2307.08582)
+
+* [23] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+[**Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering**](https://link.springer.com/article/10.1007/s10639-022-10954-4) \
+**V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič || Springer EaIT (J) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022student) 
+[[preprint]](https://arxiv.org/pdf/2307.10260)
+
+* [22] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+[**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) \
+**V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay || ACM SIGCSE (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
+[[preprint]](https://arxiv.org/pdf/2112.02053)
+
+* [21] 🏆 
+[**Preventing Cheating in Hands-on Lab Assignments**](https://dl.acm.org/doi/10.1145/3478431.3499420) \
+J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda || ACM SIGCSE (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022preventing) 
+[[preprint]](https://arxiv.org/pdf/2201.01154)
 
 ### 2021
 
