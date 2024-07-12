@@ -284,7 +284,7 @@ P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | ACM SIGCSE (C) 
 [[preprint]](https://arxiv.org/pdf/2004.11575) 
 [[slides]](https://is.muni.cz/publication/1567484/2020-SIGCSE-KYPO4INDUSTRY-testbed-teaching-cybersecurity-industrial-control-systems-presentation.pdf) 
 
-* [9] 
+* [9] 🚀 
 [**Benefits and Pitfalls of Using Capture The Flag Games in University Courses**](https://dl.acm.org/doi/10.1145/3328778.3366893) \
 J. Vykopal, **V. Švábenský**, E. Chang | ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2020benefits) 
