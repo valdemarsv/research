@@ -70,36 +70,37 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 **Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students** \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada || EDM (P) \
-🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
-[[preprint]](https://arxiv.org/pdf/2405.09821)
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
+[[preprint]](https://arxiv.org/pdf/2405.09821) 
+[[code]](https://github.com/pcla-code/2024-edm-bias)
 
 * [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 **E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems** \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada || EDM (C) \
-🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec) 
 
 * [32] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653639) \
 **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda || ACM ITiCSE (C) \
-🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024from) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024from) 
 [[preprint]](https://arxiv.org/pdf/2404.10988)
 
 * [31] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Research and Practice of Delivering Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653642) \
 J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák || ACM ITiCSE (C) \
-🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) 
 [[preprint]](https://arxiv.org/pdf/2404.10206)
 
 * [30] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades**](https://dl.acm.org/doi/10.1145/3649217.3653563) \
 **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh || ACM ITiCSE (C) \
-🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2404.05988)
 
 * [29] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts**](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) \
 **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker || LAK (P) \
-🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) 
 [[preprint]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-poster.pdf)
 
 ### 2023
