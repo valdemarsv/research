@@ -143,8 +143,22 @@ M. Ukrop, **V. Švábenský**, J. Nehyba || ACM SIGCSE (conference paper) \
 
 ### 2018
 
-| Title + links | Authors | Venue |
-| ------------- | ------- | ----- |
-| [3] [**Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools**](https://ieeexplore.ieee.org/document/8658840) <br>🔗 [[preprint]](https://arxiv.org/pdf/1903.04174) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018gathering) [[slides]](https://is.muni.cz/publication/1423243/2018-FIE-gathering-insights-teenagers-hacking-experience-authentic-cybersecurity-tools-presentation.pdf) | **V. Švábenský**, J. Vykopal | IEEE FIE (C) |
-| [2] [**Enhancing Cybersecurity Skills by Creating Serious Games**](https://dl.acm.org/doi/10.1145/3197091.3197123) 🚀 <br>🔗 [[preprint]](https://arxiv.org/pdf/1804.03567) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018enhancing) [[slides]](https://is.muni.cz/publication/1413088/2018-ITICSE-enhancing-cybersecurity-skills-creating-serious-games-presentation.pdf) [[materials]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) | **V. Švábenský**, J. Vykopal, M. Čermák, M. Laštovička | ACM ITiCSE (C) |
-| [1] [**Challenges Arising from Prerequisite Testing in Cybersecurity Games**](https://dl.acm.org/doi/10.1145/3159450.3159454) <br>🔗 [[preprint]](https://arxiv.org/pdf/1712.03163) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018challenges) [[slides]](https://is.muni.cz/publication/1391680/2018-SIGCSE-challenges-arising-prerequisite-testing-presentation.pdf) [[data and code]](https://is.muni.cz/th/395868/fi_m/?lang=en) | **V. Švábenský**, J. Vykopal | ACM SIGCSE (C) |
+* [3] [**Gathering Insights from Teenagers' Hacking Experience with Authentic Cybersecurity Tools**](https://ieeexplore.ieee.org/document/8658840) \
+**V. Švábenský**, J. Vykopal || IEEE FIE (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018gathering)
+[[preprint]](https://arxiv.org/pdf/1903.04174) 
+[[slides]](https://is.muni.cz/publication/1423243/2018-FIE-gathering-insights-teenagers-hacking-experience-authentic-cybersecurity-tools-presentation.pdf)
+
+* [2] [**Enhancing Cybersecurity Skills by Creating Serious Games**](https://dl.acm.org/doi/10.1145/3197091.3197123) 🚀 \
+**V. Švábenský**, J. Vykopal, M. Čermák, M. Laštovička || ACM ITiCSE (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018enhancing)
+[[preprint]](https://arxiv.org/pdf/1804.03567)
+[[slides]](https://is.muni.cz/publication/1413088/2018-ITICSE-enhancing-cybersecurity-skills-creating-serious-games-presentation.pdf)
+[[materials]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index)
+
+* [1] [**Challenges Arising from Prerequisite Testing in Cybersecurity Games**](https://dl.acm.org/doi/10.1145/3159450.3159454) \
+**V. Švábenský**, J. Vykopal || ACM SIGCSE (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2018challenges)
+[[preprint]](https://arxiv.org/pdf/1712.03163)
+[[slides]](https://is.muni.cz/publication/1391680/2018-SIGCSE-challenges-arising-prerequisite-testing-presentation.pdf)
+[[data and code]](https://is.muni.cz/th/395868/fi_m/?lang=en)
