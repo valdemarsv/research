@@ -122,7 +122,7 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák || ACM ITiC
 [[data and code]](https://github.com/pcla-code/forum-posts-urgency) 
 
 * [27] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
-[**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-022-12265-8) \
+[**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-023-12265-8) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak || Springer EaIT (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) 
 [[preprint]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf)
