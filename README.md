@@ -146,7 +146,7 @@ L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda
 J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda || IEEE TLT (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022smart) 
 [[preprint]](https://arxiv.org/pdf/2307.05281) 
-[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
+[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/junior-hacker-adaptive) 
 [[platform]](https://crp.kypo.muni.cz/) 
 
 * [24] 
