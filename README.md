@@ -102,12 +102,14 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák || ACM ITiC
 **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh || ACM ITiCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2404.05988)
+[[data and code]](https://github.com/SERI-CS/iticse24-error-measures) 
 
 * [29] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts**](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) \
 **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker || LAK (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) 
-[[preprint]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-poster.pdf)
+[[preprint]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-paper.pdf) 
+[[poster]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-poster.pdf) 
 
 ### 2023
 
