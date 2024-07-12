@@ -94,6 +94,8 @@ Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shim
 J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák || ACM ITiCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) 
 [[preprint]](https://arxiv.org/pdf/2404.10206)
+[[slides]](https://is.muni.cz/publication/2390898/2024-ITiCSE-research-practice-delivering-tabletop-exercises-slides.pdf) 
+[[data and materials]](https://gitlab.fi.muni.cz/inject/papers/2024-iticse-research-practice) 
 
 * [30] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades**](https://dl.acm.org/doi/10.1145/3649217.3653563) \
