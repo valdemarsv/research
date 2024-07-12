@@ -226,20 +226,24 @@ P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda || IEEE FIE (C) \
 [[preprint]](https://arxiv.org/pdf/2201.01574) 
 [[slides]](https://is.muni.cz/publication/1783806/2021-FIE-reinforcing-cybersecurity-hands-on-training-with-adaptive-learning-presentation.pdf) 
 [[video]](https://www.youtube.com/watch?v=qgfN9GjHLc0) 
-[[data and code]](https://zenodo.org/records/5126693) 
+[[data and code]](https://zenodo.org/records/5011504) 
 [[platform]](https://crp.kypo.muni.cz/)  
 
 * [16] 
 [**Toward Guidelines for Designing Cybersecurity Serious Games**](https://dl.acm.org/doi/10.1145/3408877.3439568) \
 M. Gáliková, **V. Švábenský**, J. Vykopal || ACM SIGCSE (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Galikova2021toward) 
-[[preprint]](https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-abstract.pdf)
+[[preprint]](https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-abstract.pdf) 
+[[poster]](https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-poster.pdf) 
+[[materials]](https://gitlab.ics.muni.cz/muni-kypo-trainings/guidelines) 
 
 * [15] 
 [**The Stack: Unplugged Activities for Teaching Computer Science**](https://dl.acm.org/doi/10.1145/3408877.3439569) \
 **V. Švábenský**, M. Ukrop || ACM SIGCSE (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021thestack) 
-[[preprint]](https://is.muni.cz/publication/1701737/2021-SIGCSE-stack-unplugged-activities-teaching-computer-science-poster.pdf)
+[[preprint]](https://is.muni.cz/publication/1701737/2021-SIGCSE-stack-unplugged-activities-teaching-computer-science-abstract.pdf) 
+[[poster]](https://is.muni.cz/publication/1701737/2021-SIGCSE-stack-unplugged-activities-teaching-computer-science-poster.pdf) 
+[[materials]](https://github.com/teaching-lab/stack-cs-activities) 
 
 ### 2020
 
