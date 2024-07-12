@@ -68,14 +68,14 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 ### 2024
 
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
-**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students** \
+[**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://zenodo.org/records/12729936) \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada || EDM (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
 [[preprint]](https://arxiv.org/pdf/2405.09821) 
 [[code]](https://github.com/pcla-code/2024-edm-bias)
 
 * [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
-**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems** \
+[**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://zenodo.org/records/12729854) \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada || EDM (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
@@ -272,7 +272,10 @@ M. Ukrop, **V. Švábenský**, I. Nagy || ACM ITiCSE (P) \
 [**What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences**](https://dl.acm.org/doi/10.1145/3328778.3366816) \
 **V. Švábenský**, J. Vykopal, P. Čeleda || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2020what) 
-[[preprint]](https://arxiv.org/pdf/1911.11675)
+[[preprint]](https://arxiv.org/pdf/1911.11675) 
+[[slides]](https://is.muni.cz/publication/1567598/2020-SIGCSE-what-are-cybersecurity-education-papers-about-presentation.pdf) 
+[[video]](https://www.youtube.com/watch?v=tIpgOrcFvzI) 
+[[data]](https://zenodo.org/records/3506640) 
 
 * [10] 
 [**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
