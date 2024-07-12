@@ -145,25 +145,38 @@ L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda
 [**Smart Environment for Adaptive Learning of Cybersecurity Skills**](https://ieeexplore.ieee.org/abstract/document/9926178) \
 J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda || IEEE TLT (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022smart) 
-[[preprint]](https://arxiv.org/pdf/2307.05281)
+[[preprint]](https://arxiv.org/pdf/2307.05281) 
+[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
+[[platform]](https://crp.kypo.muni.cz/) 
 
 * [24] 
 [**Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-022-11093-6) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, L. Kraus || Springer EaIT (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022applications) 
 [[preprint]](https://arxiv.org/pdf/2307.08582)
+[[data]](https://zenodo.org/records/6573117)
 
 * [23] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering**](https://link.springer.com/article/10.1007/s10639-022-10954-4) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič || Springer EaIT (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022student) 
 [[preprint]](https://arxiv.org/pdf/2307.10260)
+[[data]](https://zenodo.org/doi/10.5281/zenodo.5137354)
+[[code]](https://zenodo.org/records/6024825) 
+[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
+[[platform]](https://crp.kypo.muni.cz/) 
 
 * [22] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) \
 **V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
-[[preprint]](https://arxiv.org/pdf/2112.02053)
+[[preprint]](https://arxiv.org/pdf/2112.02053) 
+[[slides]](https://is.muni.cz/publication/2267287/2023-ITiCSE-want-to-raise-cybersecurity-awareness-presentation.pdf) 
+[[video]](https://www.youtube.com/watch?v=rzJ0AG_FsvU) 
+[[data and code]](https://zenodo.org/records/5752288) 
+[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
+[[platform 1]](https://crp.kypo.muni.cz/) 
+[[platform 2]](https://www.edurange.org/) 
 
 * [21] 🏆 
 [**Preventing Cheating in Hands-on Lab Assignments**](https://dl.acm.org/doi/10.1145/3478431.3499420) \
