@@ -281,19 +281,25 @@ M. Ukrop, **V. Švábenský**, I. Nagy || ACM ITiCSE (P) \
 [**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
 P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Celeda2020kypo) 
-[[preprint]](https://arxiv.org/pdf/2004.11575)
+[[preprint]](https://arxiv.org/pdf/2004.11575) 
+[[slides]](https://is.muni.cz/publication/1567484/2020-SIGCSE-KYPO4INDUSTRY-testbed-teaching-cybersecurity-industrial-control-systems-presentation.pdf) 
 
 * [9] 
 [**Benefits and Pitfalls of Using Capture The Flag Games in University Courses**](https://dl.acm.org/doi/10.1145/3328778.3366893) \
 J. Vykopal, **V. Švábenský**, E. Chang || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2020benefits) 
-[[preprint]](https://arxiv.org/pdf/2004.11556)
+[[preprint]](https://arxiv.org/pdf/2004.11556) 
+[[slides]](https://is.muni.cz/publication/1570036/2020-SIGCSE-benefits-pitfalls-using-capture-the-flag-games-university-courses-presentation.pdf) 
+[[code 1]](https://github.com/janvykopal/ctfd-challenge-feedback) 
+[[code 2]](https://github.com/janvykopal/ctfd-linear-unlocking) 
 
 * [8] 
 [**Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9018081) \
 R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J. Čegan || IEEE TVCG (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2020conceptual)
 [[preprint]](https://arxiv.org/pdf/2003.03610)
+[[materials]](https://crp.kypo.muni.cz/media/3197111/tvcg19-supplemental-materials.pdf) 
+[[platform]](https://crp.kypo.muni.cz/)
 
 ### 2019
 
@@ -301,25 +307,28 @@ R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J.
 [**Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study**](https://ieeexplore.ieee.org/document/9161386) \
 R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal || IEEE VizSec (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2019visual)
-[[preprint]](https://arxiv.org/pdf/1912.10781)
+[[preprint]](https://arxiv.org/pdf/1912.10781) 
+[[slides]](https://is.muni.cz/publication/1549817/2019-VizSec-visual-feedback-players-multi-level-capture-flag-games-field-usability-study-presentation.pdf) 
+[[demo]](https://kypo-summer.surge.sh/) 
 
 * [6] 🚀 
 [**Reflective Diary for Professional Development of Novice Teachers**](https://dl.acm.org/doi/10.1145/3287324.3287448) \
 M. Ukrop, **V. Švábenský**, J. Nehyba || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2019reflective)
-[[preprint]](https://arxiv.org/pdf/1811.02965)
+[[preprint]](https://arxiv.org/pdf/1811.02965) 
+[[slides]](https://is.muni.cz/publication/1483456/2019-SIGCSE-reflective-diary-professional-development-novice-teachers-presentation.pdf) 
+[[diary]](https://github.com/teaching-lab/reflective-diary) 
 
 * [5] 
 [**Towards Learning Analytics in Cybersecurity Capture the Flag Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) \
 **V. Švábenský**, J. Vykopal, P. Čeleda || ACM SIGCSE (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019towards) 
-[[preprint]](https://is.muni.cz/publication/1483457/2019-SIGCSE-toward-automated-feedback-system-educational-cybersecurity-games-poster.pdf) 
+[[poster]](https://is.muni.cz/publication/1483457/2019-SIGCSE-toward-automated-feedback-system-educational-cybersecurity-games-poster.pdf) 
 
 * [4] 
 [**Analyzing User Interactions with Cybersecurity Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) \
 **V. Švábenský** || ACM SIGCSE (P) \
-[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019analyzing)
-[[preprint]](https://is.muni.cz/publication/1483458/cs)
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019analyzing) 
 
 ### 2018
 
