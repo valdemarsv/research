@@ -71,7 +71,8 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 [**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://zenodo.org/records/12729936) \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada || EDM (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
-[[preprint]](https://arxiv.org/pdf/2405.09821) 
+[[preprint]](https://arxiv.org/pdf/2405.09821)
+[[poster]](https://is.muni.cz/publication/2401897/2024-EDM-evaluating-algorithmic-bias-models-predicting-academic-performance-filipino-students-poster.pdf) 
 [[code]](https://github.com/pcla-code/2024-edm-bias)
 
 * [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
@@ -168,7 +169,7 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda || IEEE TLT (J) \
 
 * [22] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) \
-**V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay || ACM SIGCSE (C) \
+**V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
 [[preprint]](https://arxiv.org/pdf/2112.02053) 
 [[slides]](https://is.muni.cz/publication/2267287/2023-ITiCSE-want-to-raise-cybersecurity-awareness-presentation.pdf) 
