@@ -61,9 +61,9 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 *Each paper title links to the official publisher's version.*\
 *I link preprints as much as possible, but if you need additional access to any paper, feel free to [contact me](https://elea.sk/valdemar/).*
 * 🏆 = Best Paper Award
-* ⭐ = Featured/Recommended Paper
-* 🚀 = Highly Cited Paper
-* <img width="16" src="https://cdn.simpleicons.org/openaccess"> = Open Access Paper
+* ⭐ = Featured / Recommended
+* 🚀 = Highly cited
+* <img width="16" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2024
 
@@ -240,25 +240,25 @@ R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J.
 
 * [7] 
 [**Visual Feedback for Players of Multi-Level Capture the Flag Games: Field Usability Study**](https://ieeexplore.ieee.org/document/9161386) \
-R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal || IEEE VizSec (conference paper) \
+R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal || IEEE VizSec (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2019visual)
 [[preprint]](https://arxiv.org/pdf/1912.10781)
 
 * [6] 🚀 
 [**Reflective Diary for Professional Development of Novice Teachers**](https://dl.acm.org/doi/10.1145/3287324.3287448) \
-M. Ukrop, **V. Švábenský**, J. Nehyba || ACM SIGCSE (conference paper) \
+M. Ukrop, **V. Švábenský**, J. Nehyba || ACM SIGCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2019reflective)
 [[preprint]](https://arxiv.org/pdf/1811.02965)
 
 * [5] 
 [**Towards Learning Analytics in Cybersecurity Capture the Flag Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293816) \
-**V. Švábenský**, J. Vykopal, P. Čeleda || ACM SIGCSE (conference poster) \
+**V. Švábenský**, J. Vykopal, P. Čeleda || ACM SIGCSE (P) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019towards) 
 [[preprint]](https://is.muni.cz/publication/1483457/2019-SIGCSE-toward-automated-feedback-system-educational-cybersecurity-games-poster.pdf) 
 
 * [4] 
 [**Analyzing User Interactions with Cybersecurity Games**](https://dl.acm.org/doi/abs/10.1145/3287324.3293717) \
-**V. Švábenský** || ACM SIGCSE (conference poster) \
+**V. Švábenský** || ACM SIGCSE (P) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2019analyzing)
 [[preprint]](https://is.muni.cz/publication/1483458/cs)
 
