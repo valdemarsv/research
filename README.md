@@ -203,9 +203,10 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda || ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021toolset) 
 [[preprint]](https://arxiv.org/pdf/2112.11118) 
 [[slides]](https://is.muni.cz/publication/1783801/2021-FIE-toolset-collecting-shell-commands-its-application-hands-on-cybersecurity-training-presentation.pdf) 
-[[video]](https://www.youtube.com/watch?v=qgfN9GjHLc0) 
-[[data and code]](https://zenodo.org/records/5011504) 
-[[platform]](https://crp.kypo.muni.cz/) 
+[[video]](https://www.youtube.com/watch?v=UGogfmVR6xw) 
+[[data and code]](https://zenodo.org/records/5126693) 
+[[platform 1]](https://crp.kypo.muni.cz/) 
+[[platform 2]](https://gitlab.ics.muni.cz/muni-kypo-csc/cyber-sandbox-creator) 
 
 * [18] 🚀 
 [**Scalable Learning Environments for Teaching Cybersecurity Hands-on**](https://ieeexplore.ieee.org/document/9637180) \
