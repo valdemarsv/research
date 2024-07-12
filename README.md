@@ -58,8 +58,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * **7 conference posters (P)** or other presentations in proceedings of international CORE-ranked conferences
 * **19x leading author**, worked with **52 distinct co-authors**
 
-*Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.* \
-*I link preprints as much as possible, but if you need additional access to any paper, feel free to [contact me](https://elea.sk/valdemar/).*
+*Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
 * ⭐ = Featured / Recommended
 * 🚀 = Highly cited
