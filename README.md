@@ -201,19 +201,32 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda || ACM SIGCSE (C) \
 [**Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9637052) \
 **V. Švábenský**, J. Vykopal, D. Tovarňák, P. Čeleda || IEEE FIE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021toolset) 
-[[preprint]](https://arxiv.org/pdf/2112.11118)
+[[preprint]](https://arxiv.org/pdf/2112.11118) 
+[[slides]](https://is.muni.cz/publication/1783801/2021-FIE-toolset-collecting-shell-commands-its-application-hands-on-cybersecurity-training-presentation.pdf) 
+[[video]](https://www.youtube.com/watch?v=qgfN9GjHLc0) 
+[[data and code]](https://zenodo.org/records/5011504) 
+[[platform]](https://crp.kypo.muni.cz/) 
 
 * [18] 🚀 
 [**Scalable Learning Environments for Teaching Cybersecurity Hands-on**](https://ieeexplore.ieee.org/document/9637180) \
 J. Vykopal, P. Čeleda, P. Seda, **V. Švábenský**, D. Tovarňák || IEEE FIE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2021scalable) 
-[[preprint]](https://arxiv.org/pdf/2110.10004)
+[[preprint]](https://arxiv.org/pdf/2110.10004) 
+[[slides]](https://is.muni.cz/publication/1783808/2021-FIE-scalable-learning-environments-teaching-cybersecurity-hands-on-presentation.pdf) 
+[[video]](https://www.youtube.com/watch?v=lI5HTjHVPd8) 
+[[platform 1]](https://crp.kypo.muni.cz/) 
+[[platform 2]](https://gitlab.ics.muni.cz/muni-kypo-csc/cyber-sandbox-creator) 
+[[documentation]](https://docs.crp.kypo.muni.cz/) 
 
 * [17] 
 [**Reinforcing Cybersecurity Hands-on Training With Adaptive Learning**](https://ieeexplore.ieee.org/document/9637252) \
 P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda || IEEE FIE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Seda2021reinforcing) 
-[[preprint]](https://arxiv.org/pdf/2201.01574)
+[[preprint]](https://arxiv.org/pdf/2201.01574) 
+[[slides]](https://is.muni.cz/publication/1783806/2021-FIE-reinforcing-cybersecurity-hands-on-training-with-adaptive-learning-presentation.pdf) 
+[[video]](https://www.youtube.com/watch?v=qgfN9GjHLc0) 
+[[data and code]](https://zenodo.org/records/5126693) 
+[[platform]](https://crp.kypo.muni.cz/)  
 
 * [16] 
 [**Toward Guidelines for Designing Cybersecurity Serious Games**](https://dl.acm.org/doi/10.1145/3408877.3439568) \
