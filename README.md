@@ -87,7 +87,7 @@ Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shim
 [[preprint]](https://arxiv.org/pdf/2404.10988) 
 [[slides]](https://is.muni.cz/publication/2390899/2024-ITiCSE-paper-platform-evolution-novel-learning-environment-tabletop-exercises-slides.pdf) 
 [[data and code]](https://gitlab.fi.muni.cz/inject/papers/2024-iticse-from-paper-to-platform) 
-[[software]](https://inject.muni.cz/) 
+[[platform]](https://inject.muni.cz/) 
 
 * [31] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Research and Practice of Delivering Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653642) \
@@ -118,18 +118,26 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák || ACM ITiC
 **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater || EDM (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 
 [[preprint]](https://arxiv.org/pdf/2307.07614)
+[[slides]](https://is.muni.cz/publication/2278100/2023-EDM-towards-generalizable-detection-urgency-discussion-forum-posts-presentation.pdf) 
+[[data and code]](https://github.com/pcla-code/forum-posts-urgency) 
 
 * [27] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-022-12265-8) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak || Springer EaIT (J) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) 
 [[preprint]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf)
+[[data and code]](https://zenodo.org/doi/10.5281/zenodo.8405209) 
+[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
+[[platform]](https://crp.kypo.muni.cz/) 
 
 * [26] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.**](https://dl.acm.org/doi/10.1145/3587102.3588862) \
 L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda || ACM ITiCSE (C) \
 🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) 
-[[preprint]](https://arxiv.org/pdf/2307.07608)
+[[preprint]](https://arxiv.org/pdf/2307.07608) 
+[[slides]](https://is.muni.cz/publication/2267287/2023-ITiCSE-want-to-raise-cybersecurity-awareness-presentation.pdf) 
+[[questionnaire]](https://is.muni.cz/publication/2267287/2023-ITiCSE-want-to-raise-cybersecurity-awareness-questionnaire.pdf) 
+[[course]](https://security.muni.cz/en/courses/cybercompass) 
 
 ### 2022
 
