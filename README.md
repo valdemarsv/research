@@ -80,11 +80,23 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 ### 2023
 
-| Title + official link | Authors | Venue | Info |
-| --------------------- | ------- | ----- | ---- |
-| [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) <img width="16" src="https://cdn.simpleicons.org/openaccess"> | **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | EDM (C) | [[preprint]](https://arxiv.org/pdf/2307.07614) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 🏆 |
-| [Automated Feedback for Participants of Hands-on Cybersecurity Training](https://link.springer.com/article/10.1007/s10639-023-12265-8) <img width="16" src="https://cdn.simpleicons.org/openaccess"> | **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT (J) | [[preprint]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) ⭐ |
-| [Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.](https://dl.acm.org/doi/10.1145/3587102.3588862) <img width="16" src="https://cdn.simpleicons.org/openaccess"> | L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | ACM ITiCSE (C) | [[preprint]](https://arxiv.org/pdf/2307.07608) [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) |
+* [28] 🏆 <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+[**Towards Generalizable Detection of Urgency of Discussion Forum Posts**](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) \
+**V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater || EDM (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 
+[[preprint]](https://arxiv.org/pdf/2307.07614)
+
+* [27] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+[**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-022-12265-8) \
+**V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak || Springer EaIT (J) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) 
+[[preprint]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf)
+
+* [26] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+[**Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.**](https://dl.acm.org/doi/10.1145/3587102.3588862) \
+L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda || ACM ITiCSE (C) \
+🔗 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) 
+[[preprint]](https://arxiv.org/pdf/2307.07608)
 
 ### 2022
 
