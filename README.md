@@ -60,7 +60,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
-* ⭐ = Featured / Recommended
+* ⭐ = Featured
 * 🚀 = Highly cited
 * <img width="16" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
