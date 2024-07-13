@@ -171,7 +171,7 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
 **V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
 [[preprint]](https://arxiv.org/pdf/2112.02053) 
-[[slides]](https://is.muni.cz/publication/2267287/2023-ITiCSE-want-to-raise-cybersecurity-awareness-presentation.pdf) 
+[[slides]](https://is.muni.cz/publication/1797699/2022-SIGCSE-evaluating-two-approaches-assessing-student-progress-cybersecurity-exercises-slides.pdf) 
 [[video]](https://www.youtube.com/watch?v=rzJ0AG_FsvU) 
 [[data and code]](https://zenodo.org/records/5752288) 
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
