@@ -186,7 +186,7 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE (C) \
 [[preprint]](https://arxiv.org/pdf/2201.01154) 
 [[slides]](https://is.muni.cz/publication/1816366/2022-SIGCSE-preventing-cheating-hands-on-lab-assignments-presentation.pdf) 
 [[code]](https://gitlab.fi.muni.cz/cybersec/apg) 
-[[platform]](https://crp.kypo.muni.cz/) 
+[[platform]](https://gitlab.ics.muni.cz/muni-kypo-csc/cyber-sandbox-creator) 
 
 ### 2021
 
