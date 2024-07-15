@@ -67,7 +67,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 ### 2024
 
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
-[**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://zenodo.org/records/12729936) \
+[**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
 [[preprint]](https://arxiv.org/pdf/2405.09821)
@@ -75,7 +75,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 [[code]](https://github.com/pcla-code/2024-edm-bias)
 
 * [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
-[**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://zenodo.org/records/12729854) \
+[**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
