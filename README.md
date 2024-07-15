@@ -77,7 +77,8 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM (C) \
-[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec)
+[[preprint]](https://is.muni.cz/auth/publication/2401898/2024-EDM-e2vec-feature-embedding-temporal-information-analyzing-student-actions-ebook-systems-paper.pdf) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
 
 * [32] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
