@@ -284,21 +284,21 @@ M. Ukrop, **V. Švábenský**, I. Nagy | ACM ITiCSE (P) \
 [[video]](https://www.youtube.com/watch?v=tIpgOrcFvzI) 
 [[data]](https://zenodo.org/records/3506640) 
 
-* [10] 
-[**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
-P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | ACM SIGCSE (C) \
-[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Celeda2020kypo) 
-[[preprint]](https://arxiv.org/pdf/2004.11575) 
-[[slides]](https://is.muni.cz/publication/1567484/2020-SIGCSE-KYPO4INDUSTRY-testbed-teaching-cybersecurity-industrial-control-systems-presentation.pdf) 
-
-* [9] 🚀 
+* [10] 🚀 
 [**Benefits and Pitfalls of Using Capture The Flag Games in University Courses**](https://dl.acm.org/doi/10.1145/3328778.3366893) \
 J. Vykopal, **V. Švábenský**, E. Chang | ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2020benefits) 
 [[preprint]](https://arxiv.org/pdf/2004.11556) 
 [[slides]](https://is.muni.cz/publication/1570036/2020-SIGCSE-benefits-pitfalls-using-capture-the-flag-games-university-courses-presentation.pdf) 
 [[code 1]](https://github.com/janvykopal/ctfd-challenge-feedback) 
-[[code 2]](https://github.com/janvykopal/ctfd-linear-unlocking) 
+[[code 2]](https://github.com/janvykopal/ctfd-linear-unlocking)
+
+* [9] 
+[**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
+P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | ACM SIGCSE (C) \
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Celeda2020kypo) 
+[[preprint]](https://arxiv.org/pdf/2004.11575) 
+[[slides]](https://is.muni.cz/publication/1567484/2020-SIGCSE-KYPO4INDUSTRY-testbed-teaching-cybersecurity-industrial-control-systems-presentation.pdf) 
 
 * [8] 
 [**Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9018081) \
