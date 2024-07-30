@@ -51,12 +51,12 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 [Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
 -->
 
-## All 34 peer-reviewed publications
+## All 35 peer-reviewed publications
 
 * **7 journal papers (J)** in international WoS-indexed journals
 * **20 conference papers (C)** in proceedings of international ICORE-ranked conferences
-* **7 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
-* **19x leading author**, worked with **52 distinct co-authors**
+* **8 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
+* **19x leading author**, worked with **54 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
@@ -65,6 +65,12 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * <img width="16" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2024
+
+* [35] 
+(in press) **Comparison of Large Language Models for Generating Contextually Relevant Questions** \
+I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | ECTEL (P) \
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
+[[code]](https://github.com/limu-research/2024-ectel-qg)
 
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) \
