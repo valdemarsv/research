@@ -70,6 +70,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 (in press) **Comparison of Large Language Models for Generating Contextually Relevant Questions** \
 I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
+[[preprint]](https://arxiv.org/pdf/2407.20578)
 [[code]](https://github.com/limu-research/2024-ectel-qg)
 
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
