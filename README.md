@@ -69,7 +69,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 * [36] 
 (in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
-**V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | IEEE FIE (C) \
+**V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | FIE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting) 
 [[code]](https://gitlab.fi.muni.cz/cybersec/papers/2024-FIE-unsuccessful-students)
 
