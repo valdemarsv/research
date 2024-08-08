@@ -26,10 +26,10 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 
 | Database       | Citations | h-index | Profile ID and link |
 | -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       667 |      13 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
-| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       392 |      10 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       679 |      13 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
+| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       395 |      10 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       348 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
-| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       198 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       199 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
 ### External links
 
@@ -55,9 +55,9 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 ## All 35 peer-reviewed publications
 
 * **7 journal papers (J)** in international WoS-indexed journals
-* **20 conference papers (C)** in proceedings of international ICORE-ranked conferences
+* **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
 * **8 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
-* **19x leading author**, worked with **54 distinct co-authors**
+* **20x leading author**, worked with **55 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
@@ -66,6 +66,11 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * <img width="16" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2024
+
+* [36] 
+(in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
+**V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | IEEE FIE (C) \
+[[code]](https://gitlab.fi.muni.cz/cybersec/papers/2024-FIE-unsuccessful-students)
 
 * [35] 
 (in press) **Comparison of Large Language Models for Generating Contextually Relevant Questions** \
