@@ -52,7 +52,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 [Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
 -->
 
-## All 35 peer-reviewed publications
+## All 36 peer-reviewed publications
 
 * **7 journal papers (J)** in international WoS-indexed journals
 * **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
@@ -70,6 +70,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 * [36] 
 (in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
 **V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | IEEE FIE (C) \
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting) 
 [[code]](https://gitlab.fi.muni.cz/cybersec/papers/2024-FIE-unsuccessful-students)
 
 * [35] 
