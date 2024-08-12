@@ -29,7 +29,7 @@ Interests: educational data mining, learning analytics, AI in education, learnin
 | <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       679 |      13 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
 | <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       395 |      10 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       348 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
-| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       199 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       201 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
 ### External links
 
