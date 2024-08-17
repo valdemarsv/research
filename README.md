@@ -24,7 +24,7 @@
 | Position | Institution | Country | Advisor(s) | Duration |
 | ----- | ------- | ---- | ----- | ----- |
 | **Postdoc** | Kyushu University | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/JP.png">&nbsp;Japan | [Atsushi Shimada](https://scholar.google.com/citations?user=gc2kslQAAAAJ&hl=en) | (current) |
-| Research stay | Ateneo de Manila University | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/PH.png">&nbsp;Philippines | [Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
+| Research stay | Ateneo de Manila University | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/PH.png">&nbsp;Philippines | [Maria M. T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
 | Research stay | Sorbonne University, LIP6 | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/FR.png">&nbsp;France | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
 | **Postdoc** | University of Pennsylvania | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/US.png">&nbsp;USA | [Ryan S. Baker](https://scholar.google.com/citations?user=hvs8PEoAAAAJ&hl=en) | 12 months |
 | Research stay | Northern Kentucky University | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/US.png">&nbsp;USA | [Ankur Chattopadhyay](https://scholar.google.com/citations?user=0fnIvYoAAAAJ&hl=en) | 1 month |
