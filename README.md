@@ -2,14 +2,6 @@
 
 Interests: educational data mining, learning analytics, AI in education, learning technologies, cybersecurity education
 
-### Top 5 featured publications
-
-1. [What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences](https://dl.acm.org/doi/10.1145/3328778.3366816) 🏆 (Best Paper Award)
-2. [Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges](https://www.sciencedirect.com/science/article/pii/S0167404820304272)
-3. [Towards Generalizable Detection of Urgency of Discussion Forum Posts](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) 🏆 (Best Paper Award)
-4. [Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering](https://link.springer.com/article/10.1007/s10639-022-10954-4)
-5. [From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises](https://dl.acm.org/doi/10.1145/3649217.3653639)
-
 ### Academic appointments
 
 | Position | Institution | Country | Lab / department | Advisor(s) | Duration |
