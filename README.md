@@ -58,7 +58,8 @@
 * [36] 
 (in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
 **V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | FIE (C) \
-[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting)
+[[preprint]](https://arxiv.org/pdf/2408.08531) 
 [[code]](https://gitlab.fi.muni.cz/cybersec/papers/2024-FIE-unsuccessful-students)
 
 * [35] 
