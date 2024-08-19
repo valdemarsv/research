@@ -41,7 +41,7 @@
 [Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
 -->
 
-## All 36 peer-reviewed publications
+## Published peer-reviewed papers
 
 * **7 journal papers (J)** in international WoS-indexed journals
 * **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
