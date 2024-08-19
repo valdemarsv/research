@@ -1,23 +1,6 @@
 ## Researcher profile
 
-* [Personal website](https://elea.sk/valdemar/) and [CV](https://elea.sk/valdemar/cv.pdf)
-* ORCID: [0000-0001-8546-280X](https://orcid.org/0000-0001-8546-280X)
-* Professional social networks:
-[ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
-[Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
-[LinkedIn](https://www.linkedin.com/in/valdemars/),
-[Twitter](https://twitter.com/svabenskyv)
-* Other profiles:
-[ArXiv](https://arxiv.org/a/svabensky_v_1.html), 
-[DBLP](https://dblp.org/pid/211/6869.html),
-[Zenodo](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD), 
-[Masaryk University](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
-<!---
-* Profiles at individual publishers:
-[ACM](https://dl.acm.org/profile/99659243770),
-[IEEE](https://ieeexplore.ieee.org/author/37088024250),
-[Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
--->
+* [Personal website](https://elea.sk/valdemar/) and short [résumé](https://elea.sk/valdemar/cv.pdf)
 
 ### Academic appointments
 
@@ -39,6 +22,24 @@
 | <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       396 |      10 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       354 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
 | <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       208 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
+
+* Other academic profiles:
+[ORCID](https://orcid.org/0000-0001-8546-280X), 
+[ArXiv](https://arxiv.org/a/svabensky_v_1.html), 
+[DBLP](https://dblp.org/pid/211/6869.html),
+[Zenodo](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD), 
+[MUNI](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
+* Professional social networks:
+[ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
+[Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
+[LinkedIn](https://www.linkedin.com/in/valdemars/),
+[Twitter](https://twitter.com/svabenskyv)
+<!---
+* Profiles at individual publishers:
+[ACM](https://dl.acm.org/profile/99659243770),
+[IEEE](https://ieeexplore.ieee.org/author/37088024250),
+[Springer](https://link.springer.com/search?dc.creator=Valdemar%20%C5%A0v%C3%A1bensk%C3%BD)
+-->
 
 ## All 36 peer-reviewed publications
 
