@@ -2,7 +2,7 @@
 
 * [Personal website](https://elea.sk/valdemar/),
 short [résumé](https://elea.sk/valdemar/cv.pdf),
-and full [CV](https://elea.sk/valdemar/cv-full.pdf)
+and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 ### Academic appointments
 
