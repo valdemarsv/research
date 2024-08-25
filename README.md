@@ -1,6 +1,8 @@
 ## Researcher profile
 
-* [Personal website](https://elea.sk/valdemar/) and short [résumé](https://elea.sk/valdemar/cv.pdf)
+* [Personal website](https://elea.sk/valdemar/),
+short [résumé](https://elea.sk/valdemar/cv.pdf),
+and full [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 ### Academic appointments
 
