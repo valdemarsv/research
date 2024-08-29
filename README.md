@@ -104,7 +104,7 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 [[slides]](https://is.muni.cz/publication/2390898/2024-ITiCSE-research-practice-delivering-tabletop-exercises-slides.pdf) 
 [[data and materials]](https://gitlab.fi.muni.cz/inject/papers/2024-iticse-research-practice) 
 
-* [30] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [30] 
 [**Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades**](https://dl.acm.org/doi/10.1145/3649217.3653563) \
 **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | ACM ITiCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) 
