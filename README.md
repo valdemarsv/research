@@ -63,7 +63,13 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 **V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | FIE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting)
 [[preprint]](https://arxiv.org/pdf/2408.08531) 
-[[code]](https://gitlab.fi.muni.cz/cybersec/papers/2024-FIE-unsuccessful-students)
+[[slides]](https://is.muni.cz/publication/2423257/2024-FIE-detecting-unsuccessful-students-slides.pdf) 
+[[data]](https://zenodo.org/doi/10.5281/zenodo.5137354) 
+[[code 1]](https://gitlab.fi.muni.cz/cybersec/papers/2024-FIE-unsuccessful-students) 
+[[code 2]](https://github.com/aubreybirdwell/2024-FIE-unsuccessful-students) 
+[[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
+[[platform 1]](https://crp.kypo.muni.cz/) 
+[[platform 2]](https://www.edurange.org/) 
 
 * [35] 
 (in press) **Comparison of Large Language Models for Generating Contextually Relevant Questions** \
