@@ -13,17 +13,17 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/FR.png"> Sorbonne University, France | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
 | **Postdoc**       | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/US.png"> University of Pennsylvania, USA | [Ryan S. Baker](https://scholar.google.com/citations?user=hvs8PEoAAAAJ&hl=en) | 12 months |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/US.png"> Northern Kentucky University, USA | [Ankur Chattopadhyay](https://scholar.google.com/citations?user=0fnIvYoAAAAJ&hl=en) | 1 month |
-| **Ph.D.**         | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/CZ.png"> Masaryk University, Czechia | [Pavel Čeleda](https://scholar.google.com/citations?user=19TG5q8AAAAJ&hl=en) and [Jan Vykopal](https://scholar.google.com/citations?user=DxVgP1kAAAAJ&hl=en) | 5 years |
+| **Ph.D.**         | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/CZ.png"> Masaryk University, Czech Republic | [Pavel Čeleda](https://scholar.google.com/citations?user=19TG5q8AAAAJ&hl=en) and [Jan Vykopal](https://scholar.google.com/citations?user=DxVgP1kAAAAJ&hl=en) | 5 years |
 | Master's exchange | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/DK.png"> University of Copenhagen, Denmark | – | 6 months |
 
 ### Scientific database profiles and metrics
 
 | Database       | Citations | h-index | Profile ID and link |
 | -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       687 |      13 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
-| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       402 |      10 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
-| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       354 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
-| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       208 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       688 |      13 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
+| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       402 |      11 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
+| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       355 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       210 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
 * Other academic profiles:
 [ORCID](https://orcid.org/0000-0001-8546-280X), 
