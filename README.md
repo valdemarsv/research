@@ -76,6 +76,7 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2407.20578)
+[[poster]](https://is.muni.cz/publication/2420777/2024-ECTEL-Comparison-Large-Language-Models-Generating-Contextually-Relevant-Questions-poster.pdf) 
 [[code]](https://github.com/limu-research/2024-ectel-qg)
 
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
