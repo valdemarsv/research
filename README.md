@@ -69,9 +69,17 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 [[code 2]](https://github.com/aubreybirdwell/2024-FIE-unsuccessful-students) 
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
 [[platform 1]](https://crp.kypo.muni.cz/) 
-[[platform 2]](https://www.edurange.org/) 
+[[platform 2]](https://www.edurange.org/)
 
-* [35] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [35] 
+[**Comparison of Large Language Models for Generating Contextually Relevant Questions**](https://link.springer.com/chapter/10.1007/978-3-031-72312-4_18) \
+I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL (P) \
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
+[[preprint]](https://arxiv.org/pdf/2407.20578)
+[[poster]](https://is.muni.cz/publication/2420777/2024-ECTEL-Comparison-Large-Language-Models-Generating-Contextually-Relevant-Questions-poster.pdf) 
+[[code]](https://github.com/limu-research/2024-ectel-qg)
+
+* [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM (P) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
@@ -79,20 +87,12 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 [[poster]](https://is.muni.cz/publication/2401897/2024-EDM-evaluating-algorithmic-bias-models-predicting-academic-performance-filipino-students-poster.pdf) 
 [[code]](https://github.com/pcla-code/2024-edm-bias)
 
-* [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec)
 [[preprint]](https://arxiv.org/pdf/2407.13053) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
-
-* [33] 
-[**Comparison of Large Language Models for Generating Contextually Relevant Questions**](https://link.springer.com/chapter/10.1007/978-3-031-72312-4_18) \
-I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL (P) \
-[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
-[[preprint]](https://arxiv.org/pdf/2407.20578)
-[[poster]](https://is.muni.cz/publication/2420777/2024-ECTEL-Comparison-Large-Language-Models-Generating-Contextually-Relevant-Questions-poster.pdf) 
-[[code]](https://github.com/limu-research/2024-ectel-qg)
 
 * [32] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653639) \
