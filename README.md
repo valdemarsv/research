@@ -6,8 +6,8 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 ### Academic appointments
 
-| Position | Institution and country | Advisor(s) | Duration |
-| -------- | ----------------------- | ---------- | -------- |
+| Position          | Institution and country | Advisor(s) | Duration |
+| ----------------- | ----------------------- | ---------- | -------- |
 | **Postdoc**       | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/JP.png"> Kyushu University, Japan | [Atsushi Shimada](https://scholar.google.com/citations?user=gc2kslQAAAAJ&hl=en) | (current) |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/PH.png"> Ateneo de Manila University, Philippines | [Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/FR.png"> Sorbonne University, France | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
@@ -18,12 +18,12 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 ### Scientific database profiles and metrics
 
-| Database       | Citations | h-index | Profile ID and link |
-| -------------- | --------- | ------- | ---------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       701 |      14 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
-| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       413 |      11 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
+| Database                                                                                  | Citations | h-index | Profile ID and link |
+| ----------------------------------------------------------------------------------------- | --------- | ------- | --------------------------------------------------------------------------------------------- |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       707 |      14 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
+| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       416 |      11 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       363 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
-| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       220 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       221 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
 * Other academic profiles:
 [ORCID](https://orcid.org/0000-0001-8546-280X), 
