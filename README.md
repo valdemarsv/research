@@ -154,8 +154,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
 [[platform]](https://crp.kypo.muni.cz/) 
 
-* [26] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.**](https://dl.acm.org/doi/10.1145/3587102.3588862) \
+* [26] 
+[**Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.**](https://dl.acm.org/doi/10.1145/3587102.3588862) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | ACM ITiCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) 
@@ -183,8 +183,8 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT \
 [[preprint]](https://arxiv.org/pdf/2307.08582)
 [[data]](https://zenodo.org/records/6573117)
 
-* [23] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering**](https://link.springer.com/article/10.1007/s10639-022-10954-4) \
+* [23] ⭐ 
+[**Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering**](https://link.springer.com/article/10.1007/s10639-022-10954-4) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič | Springer EaIT \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022student) 
@@ -194,8 +194,8 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT \
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
 [[platform]](https://crp.kypo.muni.cz/) 
 
-* [22] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) \
+* [22] 
+[**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
@@ -219,8 +219,8 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE \
 
 ### 2021
 
-* [20] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training**](https://www.sciencedirect.com/science/article/pii/S2352340921006806) \
+* [20] ⭐ 
+[**Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training**](https://www.sciencedirect.com/science/article/pii/S2352340921006806) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda | Elsevier DiB \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021dataset) 
