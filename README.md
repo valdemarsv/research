@@ -46,8 +46,8 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 ## Published peer-reviewed papers
 
 * <img width="16" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
-* **8 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
+* <img width="15" src="img/articleC.png"> **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleP.png"> **8 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
 * **20x leading author**, published with **55 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
