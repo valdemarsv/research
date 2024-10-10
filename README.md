@@ -46,8 +46,8 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 ## Published peer-reviewed papers
 
 * <img width="16" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="15" src="img/articleC.png"> **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
-* <img width="14" src="img/articleP.png"> **8 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
+* <img width="16" src="img/articleC.png"> **21 conference papers** in proceedings of international ICORE-ranked conferences
+* <img width="16" src="img/articleP.png"> **8 conference posters** or other presentations in proceedings of international ICORE-ranked conferences
 * **20x leading author**, published with **55 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
@@ -60,7 +60,8 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 * [36] 
 (in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
-**V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | FIE (C) \
+**V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | IEEE FIE \
+  <img width="16" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting)
 [[preprint]](https://arxiv.org/pdf/2408.08531) 
 [[slides]](https://is.muni.cz/publication/2423257/2024-FIE-detecting-unsuccessful-students-slides.pdf) 
@@ -73,7 +74,8 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 * [35] 
 [**Comparison of Large Language Models for Generating Contextually Relevant Questions**](https://link.springer.com/chapter/10.1007/978-3-031-72312-4_18) \
-I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL (P) \
+I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL \
+  <img width="16" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2407.20578)
 [[poster]](https://is.muni.cz/publication/2420777/2024-ECTEL-Comparison-Large-Language-Models-Generating-Contextually-Relevant-Questions-poster.pdf) 
@@ -81,7 +83,8 @@ I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | S
 
 * [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) \
-**V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM (P) \
+**V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM \
+  <img width="16" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
 [[preprint]](https://arxiv.org/pdf/2405.09821)
 [[poster]](https://is.muni.cz/publication/2401897/2024-EDM-evaluating-algorithmic-bias-models-predicting-academic-performance-filipino-students-poster.pdf) 
@@ -89,14 +92,16 @@ I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | S
 
 * [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) \
-Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM (C) \
+Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM \
+  <img width="16" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec)
 [[preprint]](https://arxiv.org/pdf/2407.13053) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
 
 * [32] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653639) \
-**V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | ACM ITiCSE (C) \
+**V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | ACM ITiCSE \
+  <img width="16" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024from) 
 [[preprint]](https://arxiv.org/pdf/2404.10988) 
 [[slides]](https://is.muni.cz/publication/2390899/2024-ITiCSE-paper-platform-evolution-novel-learning-environment-tabletop-exercises-slides.pdf) 
@@ -105,7 +110,8 @@ Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shim
 
 * [31] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Research and Practice of Delivering Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653642) \
-J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCSE (C) \
+J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCSE \
+  <img width="16" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) 
 [[preprint]](https://arxiv.org/pdf/2404.10206)
 [[slides]](https://is.muni.cz/publication/2390898/2024-ITiCSE-research-practice-delivering-tabletop-exercises-slides.pdf) 
@@ -113,14 +119,16 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 
 * [30] 
 [**Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades**](https://dl.acm.org/doi/10.1145/3649217.3653563) \
-**V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | ACM ITiCSE (C) \
+**V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | ACM ITiCSE \
+  <img width="16" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2404.05988)
 [[data and code]](https://github.com/SERI-CS/iticse24-error-measures) 
 
 * [29] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts**](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) \
-**V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | LAK (P) \
+**V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | LAK \
+  <img width="16" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) 
 [[preprint]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-paper.pdf) 
 [[poster]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-poster.pdf) 
