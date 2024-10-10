@@ -45,23 +45,23 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 ## Published peer-reviewed papers
 
-* <img width="16" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="16" src="img/articleC.png"> **21 conference papers** in proceedings of international ICORE-ranked conferences
-* <img width="16" src="img/articleP.png"> **8 conference posters** or other presentations in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
+* <img width="14" src="img/articleC.png"> **21 conference papers** in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleP.png"> **8 conference posters** or other presentations in proceedings of international ICORE-ranked conferences
 * **20x leading author**, published with **55 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
 * ⭐ = Featured
 * 🚀 = Highly cited
-* <img width="16" src="https://cdn.simpleicons.org/openaccess"> = Open access
+* &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2024
 
 * [36] 
 (in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
 **V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | IEEE FIE \
-  <img width="16" src="img/articleC.png"> 
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting)
 [[preprint]](https://arxiv.org/pdf/2408.08531) 
 [[slides]](https://is.muni.cz/publication/2423257/2024-FIE-detecting-unsuccessful-students-slides.pdf) 
@@ -75,43 +75,43 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 * [35] 
 [**Comparison of Large Language Models for Generating Contextually Relevant Questions**](https://link.springer.com/chapter/10.1007/978-3-031-72312-4_18) \
 I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | Springer ECTEL \
-  <img width="16" src="img/articleP.png"> 
+  &nbsp;<img width="14" src="img/articleP.png">
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Molina2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2407.20578)
 [[poster]](https://is.muni.cz/publication/2420777/2024-ECTEL-Comparison-Large-Language-Models-Generating-Contextually-Relevant-Questions-poster.pdf) 
 [[code]](https://github.com/limu-research/2024-ectel-qg)
 
-* [34] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [34] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM \
-  <img width="16" src="img/articleP.png"> 
+  &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
 [[preprint]](https://arxiv.org/pdf/2405.09821)
 [[poster]](https://is.muni.cz/publication/2401897/2024-EDM-evaluating-algorithmic-bias-models-predicting-academic-performance-filipino-students-poster.pdf) 
 [[code]](https://github.com/pcla-code/2024-edm-bias)
 
-* [33] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [33] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM \
-  <img width="16" src="img/articleC.png"> 
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec)
 [[preprint]](https://arxiv.org/pdf/2407.13053) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
 
-* [32] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [32] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653639) \
 **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | ACM ITiCSE \
-  <img width="16" src="img/articleC.png"> 
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024from) 
 [[preprint]](https://arxiv.org/pdf/2404.10988) 
 [[slides]](https://is.muni.cz/publication/2390899/2024-ITiCSE-paper-platform-evolution-novel-learning-environment-tabletop-exercises-slides.pdf) 
 [[data and code]](https://gitlab.fi.muni.cz/inject/papers/2024-iticse-from-paper-to-platform) 
 [[platform]](https://inject.muni.cz/) 
 
-* [31] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [31] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Research and Practice of Delivering Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653642) \
 J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCSE \
-  <img width="16" src="img/articleC.png"> 
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) 
 [[preprint]](https://arxiv.org/pdf/2404.10206)
 [[slides]](https://is.muni.cz/publication/2390898/2024-ITiCSE-research-practice-delivering-tabletop-exercises-slides.pdf) 
@@ -120,22 +120,22 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 * [30] 
 [**Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades**](https://dl.acm.org/doi/10.1145/3649217.3653563) \
 **V. Švábenský**, M. Pankiewicz, J. Zhang, E. Cloude, R. Baker, E. Fouh | ACM ITiCSE \
-  <img width="16" src="img/articleC.png"> 
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024comparison) 
 [[preprint]](https://arxiv.org/pdf/2404.05988)
 [[data and code]](https://github.com/SERI-CS/iticse24-error-measures) 
 
-* [29] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [29] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts**](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) \
 **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | LAK \
-  <img width="16" src="img/articleP.png"> 
+  &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) 
 [[preprint]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-paper.pdf) 
 [[poster]](https://is.muni.cz/publication/2379279/2024-LAK-data-set-size-analysis-detecting-urgency-discussion-forum-posts-poster.pdf) 
 
 ### 2023
 
-* [28] 🏆 <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [28] 🏆 <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Towards Generalizable Detection of Urgency of Discussion Forum Posts**](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) \
 **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | EDM (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 
@@ -143,7 +143,7 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 [[slides]](https://is.muni.cz/publication/2278100/2023-EDM-towards-generalizable-detection-urgency-discussion-forum-posts-presentation.pdf) 
 [[data and code]](https://github.com/pcla-code/forum-posts-urgency) 
 
-* [27] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [27] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-023-12265-8) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT \
   <img width="16" src="img/articleJ.png"> 
@@ -153,7 +153,7 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
 [[platform]](https://crp.kypo.muni.cz/) 
 
-* [26] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [26] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.**](https://dl.acm.org/doi/10.1145/3587102.3588862) \
 L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | ACM ITiCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) 
@@ -179,7 +179,7 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
 [[preprint]](https://arxiv.org/pdf/2307.08582)
 [[data]](https://zenodo.org/records/6573117)
 
-* [23] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [23] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering**](https://link.springer.com/article/10.1007/s10639-022-10954-4) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič | Springer EaIT (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022student) 
@@ -189,7 +189,7 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) 
 [[platform]](https://crp.kypo.muni.cz/) 
 
-* [22] <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [22] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) \
 **V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE (C) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
@@ -212,7 +212,7 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE (C) \
 
 ### 2021
 
-* [20] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
+* [20] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training**](https://www.sciencedirect.com/science/article/pii/S2352340921006806) \
 **V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda | Elsevier DiB (J) \
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021dataset) 
