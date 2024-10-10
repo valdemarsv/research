@@ -221,7 +221,8 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE \
 
 * [20] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training**](https://www.sciencedirect.com/science/article/pii/S2352340921006806) \
-**V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda | Elsevier DiB (J) \
+**V. Švábenský**, J. Vykopal, P. Seda, P. Čeleda | Elsevier DiB \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021dataset) 
 [[preprint]](https://is.muni.cz/publication/1793027/2021-DiB-dataset-shell-commands-used-participants-hands-on-cybersecurity-training-paper.pdf) 
 [[data]](https://zenodo.org/doi/10.5281/zenodo.5137354) 
@@ -229,7 +230,8 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE \
 
 * [19] 
 [**Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9637052) \
-**V. Švábenský**, J. Vykopal, D. Tovarňák, P. Čeleda | IEEE FIE (C) \
+**V. Švábenský**, J. Vykopal, D. Tovarňák, P. Čeleda | IEEE FIE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021toolset) 
 [[preprint]](https://arxiv.org/pdf/2112.11118) 
 [[slides]](https://is.muni.cz/publication/1783801/2021-FIE-toolset-collecting-shell-commands-its-application-hands-on-cybersecurity-training-presentation.pdf) 
@@ -240,7 +242,8 @@ J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE \
 
 * [18] 🚀 
 [**Scalable Learning Environments for Teaching Cybersecurity Hands-on**](https://ieeexplore.ieee.org/document/9637180) \
-J. Vykopal, P. Čeleda, P. Seda, **V. Švábenský**, D. Tovarňák | IEEE FIE (C) \
+J. Vykopal, P. Čeleda, P. Seda, **V. Švábenský**, D. Tovarňák | IEEE FIE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2021scalable) 
 [[preprint]](https://arxiv.org/pdf/2110.10004) 
 [[slides]](https://is.muni.cz/publication/1783808/2021-FIE-scalable-learning-environments-teaching-cybersecurity-hands-on-presentation.pdf) 
@@ -251,7 +254,8 @@ J. Vykopal, P. Čeleda, P. Seda, **V. Švábenský**, D. Tovarňák | IEEE 
 
 * [17] 
 [**Reinforcing Cybersecurity Hands-on Training With Adaptive Learning**](https://ieeexplore.ieee.org/document/9637252) \
-P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda | IEEE FIE (C) \
+P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda | IEEE FIE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Seda2021reinforcing) 
 [[preprint]](https://arxiv.org/pdf/2201.01574) 
 [[slides]](https://is.muni.cz/publication/1783806/2021-FIE-reinforcing-cybersecurity-hands-on-training-with-adaptive-learning-presentation.pdf) 
@@ -261,7 +265,8 @@ P. Seda, J. Vykopal, **V. Švábenský**, P. Čeleda | IEEE FIE (C) \
 
 * [16] 
 [**Toward Guidelines for Designing Cybersecurity Serious Games**](https://dl.acm.org/doi/10.1145/3408877.3439568) \
-M. Gáliková, **V. Švábenský**, J. Vykopal | ACM SIGCSE (P) \
+M. Gáliková, **V. Švábenský**, J. Vykopal | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Galikova2021toward) 
 [[preprint]](https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-abstract.pdf) 
 [[poster]](https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-poster.pdf) 
@@ -269,7 +274,8 @@ M. Gáliková, **V. Švábenský**, J. Vykopal | ACM SIGCSE (P) \
 
 * [15] 
 [**The Stack: Unplugged Activities for Teaching Computer Science**](https://dl.acm.org/doi/10.1145/3408877.3439569) \
-**V. Švábenský**, M. Ukrop | ACM SIGCSE (P) \
+**V. Švábenský**, M. Ukrop | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2021thestack) 
 [[preprint]](https://is.muni.cz/publication/1701737/2021-SIGCSE-stack-unplugged-activities-teaching-computer-science-abstract.pdf) 
 [[poster]](https://is.muni.cz/publication/1701737/2021-SIGCSE-stack-unplugged-activities-teaching-computer-science-poster.pdf) 
@@ -279,20 +285,23 @@ M. Gáliková, **V. Švábenský**, J. Vykopal | ACM SIGCSE (P) \
 
 * [14] ⭐ 🚀
 [**Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges**](https://www.sciencedirect.com/science/article/pii/S0167404820304272) \
-**V. Švábenský**, P. Čeleda, J. Vykopal, S. Brišáková | Elsevier CoSe (J) \
+**V. Švábenský**, P. Čeleda, J. Vykopal, S. Brišáková | Elsevier CoSe \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2020cybersecurity) 
 [[preprint]](https://arxiv.org/pdf/2101.01421) 
 [[data and code]](https://zenodo.org/records/4160585) 
 
 * [13] 
 [**How Does a Student-Centered Course on Communication and Professional Skills Impact Students in the Long Run?**](https://ieeexplore.ieee.org/document/9273962) \
-R. Motschnig, M. Silber, **V. Švábenský** | IEEE FIE (C) \
+R. Motschnig, M. Silber, **V. Švábenský** | IEEE FIE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Motschnig2020how) 
 [[preprint]](https://arxiv.org/pdf/2101.00883)
 
 * [12] 
 [**Teaching Lab: Training Novice Computer Science Teachers**](https://dl.acm.org/doi/10.1145/3341525.3393967) \
-M. Ukrop, **V. Švábenský**, I. Nagy | ACM ITiCSE (P) \
+M. Ukrop, **V. Švábenský**, I. Nagy | ACM ITiCSE \
+  &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ukrop2020teaching) 
 [[preprint]](https://is.muni.cz/publication/1647936/2020-ITiCSE-teaching-lab-training-novice-computer-science-teachers-abstract.pdf)
 [[poster]](https://is.muni.cz/publication/1647936/2020-ITiCSE-teaching-lab-training-novice-computer-science-teachers-poster.pdf)
@@ -300,7 +309,8 @@ M. Ukrop, **V. Švábenský**, I. Nagy | ACM ITiCSE (P) \
 
 * [11] 🏆 🚀 
 [**What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences**](https://dl.acm.org/doi/10.1145/3328778.3366816) \
-**V. Švábenský**, J. Vykopal, P. Čeleda | ACM SIGCSE (C) \
+**V. Švábenský**, J. Vykopal, P. Čeleda | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2020what) 
 [[preprint]](https://arxiv.org/pdf/1911.11675) 
 [[slides]](https://is.muni.cz/publication/1567598/2020-SIGCSE-what-are-cybersecurity-education-papers-about-presentation.pdf) 
@@ -309,7 +319,8 @@ M. Ukrop, **V. Švábenský**, I. Nagy | ACM ITiCSE (P) \
 
 * [10] 🚀 
 [**Benefits and Pitfalls of Using Capture The Flag Games in University Courses**](https://dl.acm.org/doi/10.1145/3328778.3366893) \
-J. Vykopal, **V. Švábenský**, E. Chang | ACM SIGCSE (C) \
+J. Vykopal, **V. Švábenský**, E. Chang | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2020benefits) 
 [[preprint]](https://arxiv.org/pdf/2004.11556) 
 [[slides]](https://is.muni.cz/publication/1570036/2020-SIGCSE-benefits-pitfalls-using-capture-the-flag-games-university-courses-presentation.pdf) 
@@ -318,14 +329,16 @@ J. Vykopal, **V. Švábenský**, E. Chang | ACM SIGCSE (C) \
 
 * [9] 
 [**KYPO4INDUSTRY: A Testbed for Teaching Cybersecurity of Industrial Control Systems**](https://dl.acm.org/doi/10.1145/3328778.3366908) \
-P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | ACM SIGCSE (C) \
+P. Čeleda, J. Vykopal, **V. Švábenský**, K. Slavíček | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Celeda2020kypo) 
 [[preprint]](https://arxiv.org/pdf/2004.11575) 
 [[slides]](https://is.muni.cz/publication/1567484/2020-SIGCSE-KYPO4INDUSTRY-testbed-teaching-cybersecurity-industrial-control-systems-presentation.pdf) 
 
 * [8] 
 [**Conceptual Model of Visual Analytics for Hands-on Cybersecurity Training**](https://ieeexplore.ieee.org/document/9018081) \
-R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J. Čegan | IEEE TVCG (J) \
+R. Ošlejšek, V. Rusňák, K. Burská, **V. Švábenský**, J. Vykopal, J. Čegan | IEEE TVCG \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Oslejsek2020conceptual)
 [[preprint]](https://arxiv.org/pdf/2003.03610)
 [[materials]](https://crp.kypo.muni.cz/media/3197111/tvcg19-supplemental-materials.pdf) 
