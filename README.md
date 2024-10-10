@@ -45,7 +45,7 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 ## Published peer-reviewed papers
 
-* **7 journal papers (J)** in international WoS-indexed journals
+* <img width="16" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
 * **21 conference papers (C)** in proceedings of international ICORE-ranked conferences
 * **8 conference posters (P)** or other presentations in proceedings of international ICORE-ranked conferences
 * **20x leading author**, published with **55 distinct co-authors**
@@ -137,7 +137,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 
 * [27] ⭐ <img width="16" src="https://cdn.simpleicons.org/openaccess"> 
 [**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-023-12265-8) \
-**V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT (J) \
+**V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT \
+  <img width="16" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) 
 [[preprint]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf)
 [[data and code]](https://zenodo.org/doi/10.5281/zenodo.8405209) 
