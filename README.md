@@ -137,7 +137,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 
 * [28] 🏆 <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Towards Generalizable Detection of Urgency of Discussion Forum Posts**](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) \
-**V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | EDM (C) \
+**V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | EDM \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 
 [[preprint]](https://arxiv.org/pdf/2307.07614)
 [[slides]](https://is.muni.cz/publication/2278100/2023-EDM-towards-generalizable-detection-urgency-discussion-forum-posts-presentation.pdf) 
@@ -146,7 +147,7 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 * [27] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-023-12265-8) \
 **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT \
-  <img width="16" src="img/articleJ.png"> 
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) 
 [[preprint]](https://is.muni.cz/publication/2319997/2023-EaIT-automated-feedback-participants-hands-on-cybersecurity-training-paper.pdf)
 [[data and code]](https://zenodo.org/doi/10.5281/zenodo.8405209) 
@@ -155,7 +156,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 
 * [26] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Want to Raise Cybersecurity Awareness? Start with Future IT Professionals.**](https://dl.acm.org/doi/10.1145/3587102.3588862) \
-L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | ACM ITiCSE (C) \
+L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda | ACM ITiCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Kraus2023want) 
 [[preprint]](https://arxiv.org/pdf/2307.07608) 
 [[slides]](https://is.muni.cz/publication/2267287/2023-ITiCSE-want-to-raise-cybersecurity-awareness-presentation.pdf) 
@@ -166,7 +168,8 @@ L. Kraus, **V. Švábenský**, M. Horák, V. Matyáš, J. Vykopal, P. Čeleda
 
 * [25] 
 [**Smart Environment for Adaptive Learning of Cybersecurity Skills**](https://ieeexplore.ieee.org/abstract/document/9926178) \
-J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
+J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022smart) 
 [[preprint]](https://arxiv.org/pdf/2307.05281) 
 [[training]](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/junior-hacker-adaptive) 
@@ -174,14 +177,16 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
 
 * [24] 
 [**Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-022-11093-6) \
-**V. Švábenský**, J. Vykopal, P. Čeleda, L. Kraus | Springer EaIT (J) \
+**V. Švábenský**, J. Vykopal, P. Čeleda, L. Kraus | Springer EaIT \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022applications) 
 [[preprint]](https://arxiv.org/pdf/2307.08582)
 [[data]](https://zenodo.org/records/6573117)
 
 * [23] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering**](https://link.springer.com/article/10.1007/s10639-022-10954-4) \
-**V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič | Springer EaIT (J) \
+**V. Švábenský**, J. Vykopal, P. Čeleda, K. Tkáčik, D. Popovič | Springer EaIT \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022student) 
 [[preprint]](https://arxiv.org/pdf/2307.10260)
 [[data]](https://zenodo.org/doi/10.5281/zenodo.5137354)
@@ -191,7 +196,8 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
 
 * [22] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
 [**Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises**](https://dl.acm.org/doi/10.1145/3478431.3499414) \
-**V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE (C) \
+**V. Švábenský**, R. Weiss, J. Cook, J. Vykopal, P. Čeleda, J. Mache, R. Chudovský, A. Chattopadhyay | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2022evaluating) 
 [[preprint]](https://arxiv.org/pdf/2112.02053) 
 [[slides]](https://is.muni.cz/publication/1797699/2022-SIGCSE-evaluating-two-approaches-assessing-student-progress-cybersecurity-exercises-slides.pdf) 
@@ -203,7 +209,8 @@ J. Vykopal, P. Seda, **V. Švábenský**, P. Čeleda | IEEE TLT (J) \
 
 * [21] 🏆 
 [**Preventing Cheating in Hands-on Lab Assignments**](https://dl.acm.org/doi/10.1145/3478431.3499420) \
-J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE (C) \
+J. Vykopal, **V. Švábenský**, P. Seda, P. Čeleda | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2022preventing) 
 [[preprint]](https://arxiv.org/pdf/2201.01154) 
 [[slides]](https://is.muni.cz/publication/1816366/2022-SIGCSE-preventing-cheating-hands-on-lab-assignments-presentation.pdf) 
