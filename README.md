@@ -81,8 +81,8 @@ I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | S
 [[poster]](https://is.muni.cz/publication/2420777/2024-ECTEL-Comparison-Large-Language-Models-Generating-Contextually-Relevant-Questions-poster.pdf) 
 [[code]](https://github.com/limu-research/2024-ectel-qg)
 
-* [34] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) \
+* [34] 
+[**Evaluating Algorithmic Bias in Models for Predicting Academic Performance of Filipino Students**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.82/2024.EDM-posters.82.pdf) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, M. Verger, M. Rodrigo, C. Monterozo, R. Baker, M. Saavedra, S. Lallé, A. Shimada | EDM \
   &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024evaluating) 
@@ -90,16 +90,16 @@ I. Molina, **V. Švábenský**, T. Minematsu, L. Chen, F. Okubo, A. Shimada | S
 [[poster]](https://is.muni.cz/publication/2401897/2024-EDM-evaluating-algorithmic-bias-models-predicting-academic-performance-filipino-students-poster.pdf) 
 [[code]](https://github.com/pcla-code/2024-edm-bias)
 
-* [33] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) \
+* [33] 
+[**E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shimada | EDM \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Miyazaki2024e2vec)
 [[preprint]](https://arxiv.org/pdf/2407.13053) 
 [[code]](https://github.com/limu-research/2024-edm-e2vec)
 
-* [32] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653639) \
+* [32] ⭐ 
+[**From Paper to Platform: Evolution of a Novel Learning Environment for Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653639) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, J. Vykopal, M. Horák, M. Hofbauer, P. Čeleda | ACM ITiCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024from) 
@@ -108,8 +108,8 @@ Y. Miyazaki, **V. Švábenský**, Y. Taniguchi, F. Okubo, T. Minematsu, A. Shim
 [[data and code]](https://gitlab.fi.muni.cz/inject/papers/2024-iticse-from-paper-to-platform) 
 [[platform]](https://inject.muni.cz/) 
 
-* [31] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Research and Practice of Delivering Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653642) \
+* [31] 
+[**Research and Practice of Delivering Tabletop Exercises**](https://dl.acm.org/doi/10.1145/3649217.3653642) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2024research) 
@@ -125,8 +125,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 [[preprint]](https://arxiv.org/pdf/2404.05988)
 [[data and code]](https://github.com/SERI-CS/iticse24-error-measures) 
 
-* [29] <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts**](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) \
+* [29] 
+[**Data Set Size Analysis for Predicting the Urgency of Discussion Forum Posts**](https://www.solaresearch.org/core/companion-proceedings-of-the-14th-international-learning-analytics-and-knowledge-conference-lak24/) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, F. Bouchet, F. Tarrazona, M. Lopez, R. Baker | LAK \
   &nbsp;<img width="14" src="img/articleP.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024data) 
@@ -135,8 +135,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 
 ### 2023
 
-* [28] 🏆 <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Towards Generalizable Detection of Urgency of Discussion Forum Posts**](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) \
+* [28] 🏆 
+[**Towards Generalizable Detection of Urgency of Discussion Forum Posts**](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.29/2023.EDM-short-papers.29.pdf) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, R. Baker, A. Zambrano, Y. Zou, S. Slater | EDM \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023towards) 
@@ -144,8 +144,8 @@ J. Vykopal, P. Čeleda, **V. Švábenský**, M. Hofbauer, M. Horák | ACM ITiCS
 [[slides]](https://is.muni.cz/publication/2278100/2023-EDM-towards-generalizable-detection-urgency-discussion-forum-posts-presentation.pdf) 
 [[data and code]](https://github.com/pcla-code/forum-posts-urgency) 
 
-* [27] ⭐ <img width="14" src="https://cdn.simpleicons.org/openaccess"> 
-[**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-023-12265-8) \
+* [27] ⭐ 
+[**Automated Feedback for Participants of Hands-on Cybersecurity Training**](https://link.springer.com/article/10.1007/s10639-023-12265-8) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, J. Vykopal, P. Čeleda, J. Dovjak | Springer EaIT \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2023automated) 
