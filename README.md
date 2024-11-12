@@ -46,7 +46,7 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 ## Published peer-reviewed papers
 
 * <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="14" src="img/articleC.png"> **21 conference papers** in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleC.png"> **22 conference papers** in proceedings of international ICORE-ranked conferences
 * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * **20x leading author**, published with **55 distinct co-authors**
 
@@ -55,6 +55,15 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 * ⭐ = Featured
 * 🚀 = Highly cited
 * &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> = Open access
+
+### 2025
+
+* [37] 
+(in press) **Cybersecurity Study Programs: What's in a Name?** \
+J. Vykopal, **V. Švábenský**, M. Lopez, P. Čeleda | ACM SIGCSE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2025cybersecurity) 
+[[data and code]](https://gitlab.fi.muni.cz/cybersec/papers/2025-sigcse-cybersecurity-programs) 
 
 ### 2024
 
