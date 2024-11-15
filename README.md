@@ -62,7 +62,8 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 (in press) **Cybersecurity Study Programs: What's in a Name?** \
 J. Vykopal, **V. Švábenský**, M. Lopez, P. Čeleda | ACM SIGCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
-[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2025cybersecurity) 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2025cybersecurity)
+[[preprint]](https://arxiv.org/pdf/2411.09240) 
 [[data and code]](https://gitlab.fi.muni.cz/cybersec/papers/2025-sigcse-cybersecurity-programs) 
 
 ### 2024
