@@ -46,9 +46,9 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 ## Published peer-reviewed papers
 
 * <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="14" src="img/articleC.png"> **22 conference papers** in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleC.png"> **23 conference papers** in proceedings of international ICORE-ranked conferences
 * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
-* **20x leading author**, published with **55 distinct co-authors**
+* **21x leading author**, published with **56 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
@@ -57,6 +57,14 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 * &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2025
+
+* [38] 
+(in press) **Evaluating the Impact of Data Augmentation on Predictive Model Performance** \
+**V. Švábenský**, C. Borchers, E. Cloude, A. Shimada | LAK \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bibtex]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2025evaluating)
+[[preprint]](https://arxiv.org/pdf/2412.02108) 
+[[code]](https://zenodo.org/records/14257159) 
 
 * [37] 
 (in press) **Cybersecurity Study Programs: What's in a Name?** \
