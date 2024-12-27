@@ -46,9 +46,9 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 ## Published peer-reviewed papers
 
 * <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="14" src="img/articleC.png"> **23 conference papers** in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleC.png"> **24 conference papers** in proceedings of international ICORE-ranked conferences
 * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
-* 38 publications total — **21x leading author**, published with **56 distinct co-authors**
+* 39 publications total — **21x leading author**, published with **58 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
@@ -57,6 +57,14 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 * &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2025
+
+* [39] 
+(in press) **Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance** \
+S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Leelaluk2025knowledge)
+[[preprint]](https://arxiv.org/pdf/2412.14526) 
+[[code]](https://github.com/limu-research/2025-SAC-RNN-Attention-KD) 
 
 * [38] 
 (in press) **Evaluating the Impact of Data Augmentation on Predictive Model Performance** \
