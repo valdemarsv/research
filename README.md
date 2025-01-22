@@ -29,7 +29,7 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 [ORCID](https://orcid.org/0000-0001-8546-280X), 
 [ArXiv](https://arxiv.org/a/svabensky_v_1.html), 
 [DBLP](https://dblp.org/pid/211/6869.html),
-[Zenodo](https://zenodo.org/search?page=1&size=20&q=%C5%A0v%C3%A1bensk%C3%BD), 
+[Zenodo](https://zenodo.org/search?q=%C5%A0v%C3%A1bensk%C3%BD&l=list&p=1&s=10&sort=newest), 
 [MUNI](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
 * Professional social networks:
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
