@@ -20,9 +20,9 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 | Database                                                                                  | Citations | h-index | Profile ID and link |
 | ----------------------------------------------------------------------------------------- | --------- | ------- | --------------------------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       788 |      15 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
-| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       448 |      11 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
-| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       392 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       791 |      15 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
+| <img width="16" src="https://cdn.simpleicons.org/semanticscholar">&nbsp; Semantic Scholar |       452 |      11 | [32216410](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410) |
+| <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       394 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
 | <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       254 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
 * Other academic profiles:
