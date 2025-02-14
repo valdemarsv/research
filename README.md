@@ -8,7 +8,7 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 
 | Position          | Institution and country | Advisor(s) | Duration |
 | ----------------- | ----------------------- | ---------- | -------- |
-| **Postdoc**       | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/JP.png"> Kyushu University, Japan | [Atsushi Shimada](https://scholar.google.com/citations?user=gc2kslQAAAAJ&hl=en) | (current) |
+| **Postdoc**       | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/JP.png"> Kyushu University, Japan | [Atsushi Shimada](https://scholar.google.com/citations?user=gc2kslQAAAAJ&hl=en) | 15 months |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/PH.png"> Ateneo de Manila University, Philippines | [Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/FR.png"> Sorbonne University, France | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
 | **Postdoc**       | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/US.png"> University of Pennsylvania, USA | [Ryan S. Baker](https://scholar.google.com/citations?user=hvs8PEoAAAAJ&hl=en) | 12 months |
