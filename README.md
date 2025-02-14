@@ -46,9 +46,9 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 ## Published peer-reviewed papers
 
 * <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="14" src="img/articleC.png"> **24 conference papers** in proceedings of international ICORE-ranked conferences
+* <img width="14" src="img/articleC.png"> **25 conference papers** in proceedings of international ICORE-ranked conferences
 * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
-* 39 publications total — **21x leading author**, published with **58 distinct co-authors**
+* 40 publications total — **21x leading author**, published with **61 distinct co-authors**
 
 *Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
 * 🏆 = Best Paper Award
@@ -57,6 +57,12 @@ and long [CV](https://elea.sk/valdemar/cv-full.pdf)
 * &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2025
+
+* [40] 
+(in press) **Single-Agent vs. Multi-Agent LLM Strategies for Reflection Assessment** \
+G. Li, L. Chen, C. Tang, **V. Švábenský**, D. Deguchi, T. Yamashita, A. Shimada | PAKDD \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Li2025single)
 
 * [39] 
 (in press) **Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance** \
