@@ -47,12 +47,11 @@
 * <img width="14" src="img/articleC.png"> **25 conference papers** in proceedings of international ICORE-ranked conferences
 * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * 40 publications total — **21x leading author**, published with **61 distinct co-authors**
+* *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
+* | 🏆 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
+  | --- | --- | --- | --- |
+  | Best Paper Award | Featured | Highly cited | Open access |
 
-*Each paper title links to the official publisher's version. Please use [references.bib](references.bib) to cite.*
-* 🏆 = Best Paper Award
-* ⭐ = Featured
-* 🚀 = Highly cited
-* &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> = Open access
 
 ### 2025
 
@@ -71,7 +70,7 @@ S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
 [[code]](https://github.com/limu-research/2025-SAC-RNN-Attention-KD) 
 
 * [38] 
-(in press) **Evaluating the Impact of Data Augmentation on Predictive Model Performance** \
+(in press) **Evaluating the Impact of Data Augmentation on Predictive Model Performance** <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, C. Borchers, E. Cloude, A. Shimada | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2025evaluating)
@@ -79,7 +78,7 @@ S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
 [[code]](https://zenodo.org/records/14257159) 
 
 * [37] 
-(in press) **Cybersecurity Study Programs: What's in a Name?** \
+(in press) **Cybersecurity Study Programs: What's in a Name?** <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 J. Vykopal, **V. Švábenský**, M. Lopez, P. Čeleda | ACM SIGCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2025cybersecurity)
