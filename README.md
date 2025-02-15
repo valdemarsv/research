@@ -1,4 +1,4 @@
-## Valdemar's research profile
+## Valdemar's research profile (see also [**CV**](https://elea.sk/valdemar/cv.pdf))
 
 | Academic position | Institution and country | Advisor(s) | Duration |
 | ----------------- | ----------------------- | ---------- | -------- |
@@ -19,7 +19,6 @@
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       400 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
 | <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       258 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
-* [**Personal website**](https://elea.sk/valdemar/) and short [**résumé**](https://elea.sk/valdemar/cv.pdf)
 * Other academic profiles:
 [ORCID](https://orcid.org/0000-0001-8546-280X), 
 [ArXiv](https://arxiv.org/a/svabensky_v_1.html), 
