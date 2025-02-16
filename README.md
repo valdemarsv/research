@@ -10,9 +10,7 @@
 | **Ph.D.**         | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/CZ.png"> Masaryk University, Czech Republic | [Pavel Čeleda](https://scholar.google.com/citations?user=19TG5q8AAAAJ&hl=en) and [Jan Vykopal](https://scholar.google.com/citations?user=DxVgP1kAAAAJ&hl=en) | 5 years |
 | Master's exchange | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/DK.png"> University of Copenhagen, Denmark | – | 6 months |
 
-### Scientific database profiles and metrics
-
-| Database                                                                                  | Citations | h-index | Profile ID and link |
+| Scientific database                                                                       | Citations | h-index | Profile ID and link |
 | ----------------------------------------------------------------------------------------- | --------- | ------- | --------------------------------------------------------------------------------------------- |
 | <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       804 |      15 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       400 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
