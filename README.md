@@ -39,10 +39,10 @@
 
 ## Published peer-reviewed papers
 
-* <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
-* <img width="14" src="img/articleC.png"> **25 conference papers** in proceedings of international ICORE-ranked conferences
-* <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
-* 40 publications total — **21x leading author**, published with **61 distinct co-authors**
+* **40 publications** total — **21x leading author**, published with **61 distinct co-authors**
+  * <img width="14" src="img/articleJ.png"> **7 journal papers** in international WoS-indexed journals
+  * <img width="14" src="img/articleC.png"> **25 conference papers** in proceedings of international ICORE-ranked conferences
+  * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
 * | 🏆 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
   | --- | --- | --- | --- |
