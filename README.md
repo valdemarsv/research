@@ -12,9 +12,9 @@
 
 | Scientific database                                                                       | Citations | h-index | Profile ID and link |
 | ----------------------------------------------------------------------------------------- | --------- | ------- | --------------------------------------------------------------------------------------------- |
-| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       804 |      15 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
+| <img width="16" src="https://cdn.simpleicons.org/googlescholar">&nbsp; Google Scholar     |       810 |      15 | [CSMVlf0AAAAJ](https://scholar.google.com/citations?user=CSMVlf0AAAAJ&hl=en)                  |
 | <img width="16" src="https://cdn.simpleicons.org/scopus">&nbsp; Scopus                    |       400 |      10 | [57215670820](https://www.scopus.com/authid/detail.uri?authorId=57215670820)                  |
-| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       258 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
+| <img width="16" src="https://cdn.simpleicons.org/clarivate">&nbsp; Web of Science         |       259 |       8 | [GPG-1431-2022](https://www.webofscience.com/wos/author/rid/GPG-1431-2022)                    |
 
 * Other academic profiles:
 [ORCID](https://orcid.org/0000-0001-8546-280X), 
