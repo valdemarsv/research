@@ -69,6 +69,7 @@ S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2025evaluating)
 [[preprint]](https://arxiv.org/pdf/2412.02108) 
+[[slides]](https://is.muni.cz/publication/2457157/2025-LAK-evaluating-impact-data-augmentation-predictive-model-performance-slides.pdf) 
 [[code]](https://zenodo.org/records/14257159) 
 
 * [37] 
