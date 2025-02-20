@@ -73,7 +73,7 @@ S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
 [[code]](https://zenodo.org/records/14257159) 
 
 * [37] 
-(in press) **Cybersecurity Study Programs: What's in a Name?** <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
+[**Cybersecurity Study Programs: What's in a Name?**](https://dl.acm.org/doi/10.1145/3641554.3701976) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 J. Vykopal, **V. Švábenský**, M. Lopez, P. Čeleda | ACM SIGCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2025cybersecurity)
