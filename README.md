@@ -64,7 +64,7 @@ S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
 [[code]](https://github.com/limu-research/2025-SAC-RNN-Attention-KD) 
 
 * [38] 
-(in press) **Evaluating the Impact of Data Augmentation on Predictive Model Performance** <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
+[**Evaluating the Impact of Data Augmentation on Predictive Model Performance**](https://dl.acm.org/doi/10.1145/3706468.3706485) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 **V. Švábenský**, C. Borchers, E. Cloude, A. Shimada | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2025evaluating)
