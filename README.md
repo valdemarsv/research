@@ -83,7 +83,7 @@ J. Vykopal, **V. Švábenský**, M. Lopez, P. Čeleda | ACM SIGCSE \
 ### 2024
 
 * [36] 
-(in press) **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments** \
+[**Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments**](https://ieeexplore.ieee.org/document/10893135) \
 **V. Švábenský**, K. Tkáčik, A. Birdwell, R. Weiss, R. Baker, P. Čeleda, J. Vykopal, J. Mache, A. Chattopadhyay | IEEE FIE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2024detecting)
