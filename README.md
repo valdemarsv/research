@@ -53,7 +53,8 @@
 (in press) **Single-Agent vs. Multi-Agent LLM Strategies for Reflection Assessment** \
 G. Li, L. Chen, C. Tang, **V. Švábenský**, D. Deguchi, T. Yamashita, A. Shimada | PAKDD \
   &nbsp;<img width="14" src="img/articleC.png"> 
-[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Li2025single)
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Li2025single) 
+[[preprint]](https://arxiv.org/pdf/2504.05716) 
 
 * [39] 
 (in press) **Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance** \
