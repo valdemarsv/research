@@ -52,7 +52,9 @@
 * [41] 
 (in press) **LECTOR: Summarizing E-book Reading Content for Personalized Student Support** \
 E. López, C. Tang, **V. Švábenský**, F. Okubo, A. Shimada | IJAIED \
-  &nbsp;<img width="14" src="img/articleJ.png"> 
+  &nbsp;<img width="14" src="img/articleJ.png">
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Lopez2025lector) 
+[[code]](https://github.com/limu-research/LECTOR_V1) 
 
 * [40] 
 (in press) **Single-Agent vs. Multi-Agent LLM Strategies for Reflection Assessment** \
