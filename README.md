@@ -49,6 +49,12 @@
 
 ### 2025
 
+* [42] 
+(in press) **Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features** \
+S. Yoneda, **V. Švábenský**, G. Li, D. Deguchi, A. Shimada | EDM \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Yoneda2025ranking) 
+
 * [41] 
 (in press) **LECTOR: Summarizing E-book Reading Content for Personalized Student Support** \
 E. López, C. Tang, **V. Švábenský**, F. Okubo, A. Shimada | IJAIED \
