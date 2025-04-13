@@ -49,6 +49,11 @@
 
 ### 2025
 
+* [41] 
+(in press) **LECTOR: Summarizing E-book Reading Content for Personalized Student Support** \
+E. López, C. Tang, **V. Švábenský**, F. Okubo, A. Shimada | IJAIED \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
+
 * [40] 
 (in press) **Single-Agent vs. Multi-Agent LLM Strategies for Reflection Assessment** \
 G. Li, L. Chen, C. Tang, **V. Švábenský**, D. Deguchi, T. Yamashita, A. Shimada | PAKDD \
