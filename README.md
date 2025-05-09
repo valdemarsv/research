@@ -56,7 +56,7 @@ S. Yoneda, **V. Švábenský**, G. Li, D. Deguchi, A. Shimada | EDM \
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Yoneda2025ranking) 
 
 * [41] 
-[**LECTOR: Summarizing E-book Reading Content for Personalized Student Support**](https://link.springer.com/article/10.1007/s40593-025-00478-6) \
+[**LECTOR: Summarizing E-book Reading Content for Personalized Student Support**](https://link.springer.com/article/10.1007/s40593-025-00478-6) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
 E. López, C. Tang, **V. Švábenský**, F. Okubo, A. Shimada | IJAIED \
   &nbsp;<img width="14" src="img/articleJ.png">
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Lopez2025lector) 
