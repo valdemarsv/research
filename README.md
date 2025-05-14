@@ -60,6 +60,7 @@ S. Yoneda, **V. Švábenský**, G. Li, D. Deguchi, A. Shimada | EDM \
 E. López, C. Tang, **V. Švábenský**, F. Okubo, A. Shimada | IJAIED \
   &nbsp;<img width="14" src="img/articleJ.png">
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Lopez2025lector) 
+[[preprint]](https://arxiv.org/pdf/2505.07898) 
 [[code]](https://github.com/limu-research/LECTOR_V1) 
 
 * [40] 
