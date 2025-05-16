@@ -72,7 +72,7 @@ G. Li, L. Chen, C. Tang, **V. Švábenský**, D. Deguchi, T. Yamashita, A. Shi
 [[preprint]](https://arxiv.org/pdf/2504.05716) 
 
 * [39] 
-(in press) **Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance** \
+[**Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance**](https://dl.acm.org/doi/10.1145/3672608.3707805) \
 S. Leelaluk, C. Tang, **V. Švábenský**, A. Shimada | ACM SAC \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Leelaluk2025knowledge)
