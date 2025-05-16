@@ -94,6 +94,7 @@ J. Vykopal, **V. Švábenský**, M. Lopez, P. Čeleda | ACM SIGCSE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2025cybersecurity)
 [[preprint]](https://arxiv.org/pdf/2411.09240) 
+[[slides]](https://is.muni.cz/publication/2451245/2025-SIGCSE-cybersecurity-study-programs-slides.pdf) 
 [[data and code]](https://gitlab.fi.muni.cz/cybersec/papers/2025-sigcse-cybersecurity-programs) 
 
 ### 2024
