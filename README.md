@@ -22,7 +22,7 @@
 [Semantic Scholar](https://www.semanticscholar.org/author/Valdemar-%C5%A0v%C3%A1bensk%C3%BD/32216410), 
 [DBLP](https://dblp.org/pid/211/6869.html),
 [Zenodo](https://zenodo.org/search?q=%C5%A0v%C3%A1bensk%C3%BD&l=list&p=1&s=10&sort=newest), 
-[MUNI](https://is.muni.cz/osoba/valdemar?lang=en#publikace)
+[MUNI](https://www.muni.cz/en/people/395868-valdemar-svabensky/publications) <!-- [MUNI](https://is.muni.cz/osoba/valdemar?lang=en#publikace) -->
 * Professional social networks:
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
 [Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
