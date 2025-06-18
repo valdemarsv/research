@@ -65,7 +65,7 @@ E. López, C. Tang, **V. Švábenský**, F. Okubo, A. Shimada | IJAIED \
 [[code]](https://github.com/limu-research/LECTOR_V1) 
 
 * [40] 
-(in press) **Single-Agent vs. Multi-Agent LLM Strategies for Automated Student Reflection Assessment** \
+[**Single-Agent vs. Multi-Agent LLM Strategies for Automated Student Reflection Assessment**](https://link.springer.com/chapter/10.1007/978-981-96-8186-0_24) \
 G. Li, L. Chen, C. Tang, **V. Švábenský**, D. Deguchi, T. Yamashita, A. Shimada | PAKDD \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Li2025single) 
