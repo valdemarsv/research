@@ -37,9 +37,9 @@
 
 ## Published peer-reviewed papers
 
-* **42 publications** total — **21x leading author**, published with **63 distinct co-authors**
+* **43 publications** total — **21x leading author**, published with **65 distinct co-authors**
   * <img width="14" src="img/articleJ.png"> **8 journal papers** in international WoS-indexed journals
-  * <img width="14" src="img/articleC.png"> **26 conference papers** in proceedings of international ICORE-ranked conferences
+  * <img width="14" src="img/articleC.png"> **27 conference papers** in proceedings of international ICORE-ranked conferences
   * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
 * | 🏆 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
@@ -48,6 +48,11 @@
 
 
 ### 2025
+
+* [43] 
+(in press) **PALM: PAnoramic Learning Map Integrating Learning Analytics and Curriculum Map for Scalable Insights Across Courses** \
+M. Ozaki, L. Chen, S. Naganuma, **V. Švábenský**, F. Okubo, A. Shimada | IEEE SMC \
+  &nbsp;<img width="14" src="img/articleC.png"> 
 
 * [42] 
 (in press) **Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features** \
