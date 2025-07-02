@@ -53,6 +53,7 @@
 (in press) **PALM: PAnoramic Learning Map Integrating Learning Analytics and Curriculum Map for Scalable Insights Across Courses** \
 M. Ozaki, L. Chen, S. Naganuma, **V. Švábenský**, F. Okubo, A. Shimada | IEEE SMC \
   &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ozaki2025palm) 
 
 * [42] 
 (in press) **Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features** \
