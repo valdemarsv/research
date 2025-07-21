@@ -56,11 +56,12 @@ M. Ozaki, L. Chen, S. Naganuma, **V. Švábenský**, F. Okubo, A. Shimada | IE
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ozaki2025palm) 
 
 * [42] 
-(in press) **Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features** \
+[**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features](https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.long-papers.51/2025.EDM.long-papers.51.pdf) \
 S. Yoneda, **V. Švábenský**, G. Li, D. Deguchi, A. Shimada | EDM \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Yoneda2025ranking) 
 [[preprint]](https://arxiv.org/pdf/2505.09287) 
+[[code]](https://github.com/limu-research/2025-EDM-FL) 
 
 * [41] 
 [**LECTOR: Summarizing E-book Reading Content for Personalized Student Support**](https://link.springer.com/article/10.1007/s40593-025-00478-6) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
