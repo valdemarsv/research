@@ -54,6 +54,7 @@
 M. Ozaki, L. Chen, S. Naganuma, **V. Švábenský**, F. Okubo, A. Shimada | IEEE SMC \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ozaki2025palm) 
+[[preprint]](https://arxiv.org/pdf/2507.18393) 
 
 * [42] 
 [**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**](https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.long-papers.51/2025.EDM.long-papers.51.pdf) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
