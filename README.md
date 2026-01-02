@@ -2,6 +2,7 @@
 
 | Academic position | Institution and country | Advisor(s) | Duration |
 | ----------------- | ----------------------- | ---------- | -------- |
+| **Assistant Professor** | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/CZ.png"> Masaryk University, Czech Republic | – | now |
 | **Postdoc**       | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/JP.png"> Kyushu University, Japan | [Atsushi Shimada](https://scholar.google.com/citations?user=gc2kslQAAAAJ&hl=en) | 15 months |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/PH.png"> Ateneo de Manila University, Philippines | [Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en) | 1 month |
 | Research stay     | <img src="https://github.com/gosquared/flags/blob/master/flags/flags-iso/flat/16/FR.png"> Sorbonne University, France | [François Bouchet](https://scholar.google.com/citations?user=C9KW1BwAAAAJ&hl=en) | 1 month |
