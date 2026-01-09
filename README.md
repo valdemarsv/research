@@ -54,7 +54,8 @@
 (in press) **Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges** \
 **V. Švábenský**, C. Borchers, E. Fortuna, E. Cloude, D. Gašević | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
-[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026fifteen) 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026fifteen)
+[[data and code]](https://zenodo.org/records/18195399) 
 
 * [44] 
 (in press) **Measuring the Impact of Student Gaming Behaviors on Learner Modeling** \
