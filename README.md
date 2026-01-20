@@ -56,7 +56,7 @@
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026fifteen) 
 [[preprint]](https://arxiv.org/pdf/2601.07629) 
-[[data and code]](https://zenodo.org/records/18195399) 
+[[data and code]](https://zenodo.org/records/18314709) 
 
 * [44] 
 (in press) **Measuring the Impact of Student Gaming Behaviors on Learner Modeling** \
