@@ -69,7 +69,7 @@ Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
 ### 2025
 
 * [43] 
-(in press) **PALM: PAnoramic Learning Map Integrating Learning Analytics and Curriculum Map for Scalable Insights Across Courses** \
+[**PALM: PAnoramic Learning Map Integrating Learning Analytics and Curriculum Map for Scalable Insights Across Courses**](https://doi.org/10.1109/SMC58881.2025.11343513) \
 M. Ozaki, L. Chen, S. Naganuma, **V. Švábenský**, F. Okubo, A. Shimada | IEEE SMC \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Ozaki2025palm) 
