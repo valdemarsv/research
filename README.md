@@ -38,8 +38,8 @@
 
 ## Published peer-reviewed papers
 
-* **46 publications** total — **22x leading author**, published with **72 distinct co-authors**
-  * <img width="14" src="img/articleJ.png"> **9 journal papers** in international WoS-indexed journals
+* **47 publications** total — **23x leading author**, published with **73 distinct co-authors**
+  * <img width="14" src="img/articleJ.png"> **10 journal papers** in international WoS-indexed journals
   * <img width="14" src="img/articleC.png"> **29 conference papers** in proceedings of international ICORE-ranked conferences
   * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
@@ -49,6 +49,13 @@
 
 
 ### 2026
+
+* [47] 
+(in press) **Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE** \
+**V. Švábenský**, B. Flanagan, E. López, A. Shimada | TKDD \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026open) 
+[[data and code]](https://zenodo.org/records/18667402) 
 
 * [46] 
 (in press) **Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges** \
