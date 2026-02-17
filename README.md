@@ -38,8 +38,8 @@
 
 ## Published peer-reviewed papers
 
-* **45 publications** total — **22x leading author**, published with **70 distinct co-authors**
-  * <img width="14" src="img/articleJ.png"> **8 journal papers** in international WoS-indexed journals
+* **46 publications** total — **22x leading author**, published with **72 distinct co-authors**
+  * <img width="14" src="img/articleJ.png"> **9 journal papers** in international WoS-indexed journals
   * <img width="14" src="img/articleC.png"> **29 conference papers** in proceedings of international ICORE-ranked conferences
   * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
@@ -50,7 +50,7 @@
 
 ### 2026
 
-* [45] 
+* [46] 
 (in press) **Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges** \
 **V. Švábenský**, C. Borchers, E. Fortuna, E. Cloude, D. Gašević | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
@@ -58,13 +58,19 @@
 [[preprint]](https://arxiv.org/pdf/2601.07629) 
 [[data and code]](https://zenodo.org/records/18314709) 
 
-* [44] 
+* [45] 
 (in press) **Measuring the Impact of Student Gaming Behaviors on Learner Modeling** \
 Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Liu2026measuring)
 [[preprint]](https://arxiv.org/pdf/2512.18659) 
-[[code]](https://zenodo.org/records/18155292) 
+[[code]](https://zenodo.org/records/18155292)
+
+* [44] 
+(in press) **Long-term Effects of Promoting Communication and Soft Skills in Higher Computing Education** \
+R. Motschnig, D. Dolezal, **V. Švábenský**, K. Palubová, M. Silber | TOCE \
+  &nbsp;<img width="14" src="img/articleJ.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Motschnig2026long)
 
 ### 2025
 
