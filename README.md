@@ -50,14 +50,14 @@
 
 ### 2026
 
-* [47] 
+* [47] ⭐ 
 (in press) **Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE** \
 **V. Švábenský**, B. Flanagan, E. López, A. Shimada | TKDD \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026open) 
 [[data and code]](https://zenodo.org/records/18667402) 
 
-* [46] 
+* [46] ⭐ 
 (in press) **Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges** \
 **V. Švábenský**, C. Borchers, E. Fortuna, E. Cloude, D. Gašević | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
