@@ -54,7 +54,8 @@
 (in press) **Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE** \
 **V. Švábenský**, B. Flanagan, E. López, A. Shimada | TKDD \
   &nbsp;<img width="14" src="img/articleJ.png"> 
-[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026open) 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026open)
+[[preprint]](https://arxiv.org/pdf/2602.17314) 
 [[data and code]](https://zenodo.org/records/18667402) 
 
 * [46] ⭐ 
