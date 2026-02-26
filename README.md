@@ -51,7 +51,7 @@
 ### 2026
 
 * [47] ⭐ 
-(in press) **Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE** \
+[**Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE**](https://dl.acm.org/doi/10.1145/3798096) \
 **V. Švábenský**, B. Flanagan, E. López, A. Shimada | TKDD \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026open)
