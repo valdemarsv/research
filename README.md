@@ -52,7 +52,7 @@
 
 * [47] ⭐ 
 [**Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE**](https://dl.acm.org/doi/10.1145/3798096) \
-**V. Švábenský**, B. Flanagan, E. López, A. Shimada | TKDD \
+**V. Švábenský**, B. Flanagan, E. López, A. Shimada | ACM TKDD \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026open)
 [[preprint]](https://arxiv.org/pdf/2602.17314) 
@@ -76,7 +76,7 @@ Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
 
 * [44] 
 [**Long-term Effects of Promoting Communication and Soft Skills in Higher Computing Education**](https://dl.acm.org/doi/10.1145/3800569) \
-R. Motschnig, D. Dolezal, **V. Švábenský**, K. Palubová, M. Silber | TOCE \
+R. Motschnig, D. Dolezal, **V. Švábenský**, K. Palubová, M. Silber | ACM TOCE \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Motschnig2026long)
 
