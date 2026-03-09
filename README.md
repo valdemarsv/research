@@ -75,7 +75,7 @@ Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
 [[code]](https://zenodo.org/records/18155292)
 
 * [44] 
-(in press) **Long-term Effects of Promoting Communication and Soft Skills in Higher Computing Education** \
+[**Long-term Effects of Promoting Communication and Soft Skills in Higher Computing Education**](https://dl.acm.org/doi/10.1145/3800569) \
 R. Motschnig, D. Dolezal, **V. Švábenský**, K. Palubová, M. Silber | TOCE \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Motschnig2026long)
