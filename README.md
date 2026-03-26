@@ -38,17 +38,22 @@
 
 ## Published peer-reviewed papers
 
-* **47 publications** total — **23x leading author**, published with **73 distinct co-authors**
+* **48 publications** total — **23x leading author**, published with **75 distinct co-authors**
   * <img width="14" src="img/articleJ.png"> **10 journal papers** in international WoS-indexed journals
-  * <img width="14" src="img/articleC.png"> **29 conference papers** in proceedings of international ICORE-ranked conferences
+  * <img width="14" src="img/articleC.png"> **30 conference papers** in proceedings of international ICORE-ranked conferences
   * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
 * | 🏆 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
   | --- | --- | --- | --- |
   | Best Paper Award | Featured | Highly cited | Open access |
 
-
 ### 2026
+
+* [48] 
+(in press) **Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?** \
+C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal) 
 
 * [47] ⭐ 
 [**Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE**](https://dl.acm.org/doi/10.1145/3798096) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
