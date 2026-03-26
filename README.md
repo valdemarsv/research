@@ -79,6 +79,7 @@ Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
 R. Motschnig, D. Dolezal, **V. Švábenský**, K. Palubová, M. Silber | ACM TOCE \
   &nbsp;<img width="14" src="img/articleJ.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Motschnig2026long)
+[[preprint]](https://is.muni.cz/publication/2556976/2026-TOCE-Long-term-Effects-Promoting-Communication-Soft-Skills-Higher-Computing-Education-paper.pdf) 
 
 ### 2025
 
