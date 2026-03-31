@@ -53,7 +53,8 @@
 (in press) **Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?** \
 C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
   &nbsp;<img width="14" src="img/articleC.png"> 
-[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal) 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal)
+[[preprint]](https://arxiv.org/pdf/2603.28553) 
 
 * [47] ⭐ 
 [**Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE**](https://dl.acm.org/doi/10.1145/3798096) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
