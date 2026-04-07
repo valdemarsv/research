@@ -28,7 +28,7 @@
 [ResearchGate](https://www.researchgate.net/profile/Valdemar_Svabensky),
 [Academia](https://independent.academia.edu/V%C5%A0v%C3%A1bensk%C3%BD),
 [LinkedIn](https://www.linkedin.com/in/valdemars/),
-[Twitter](https://twitter.com/svabenskyv)
+[Twitter](https://twitter.com/valdemar_muni)
 <!---
 * Profiles at individual publishers:
 [ACM](https://dl.acm.org/profile/99659243770),
