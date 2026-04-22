@@ -43,9 +43,9 @@
   * <img width="14" src="img/articleC.png"> **30 conference papers** in proceedings of international ICORE-ranked conferences
   * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
-* | 🏆 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
-  | --- | --- | --- | --- |
-  | Best Paper Award | Featured | Highly cited | Open access |
+* | 🏆 | 🏅 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
+  | --- | --- | --- | --- | --- |
+  | Best Paper Award | Best Paper Nominee | Featured | Highly cited | Open access |
 
 ### 2026
 
@@ -72,7 +72,7 @@ C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
 [[preprint]](https://arxiv.org/pdf/2601.07629) 
 [[data and code]](https://zenodo.org/records/18314709) 
 
-* [45] 
+* [45] 🏅 
 (in press) **Measuring the Impact of Student Gaming Behaviors on Learner Modeling** \
 Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
