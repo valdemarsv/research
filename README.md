@@ -69,7 +69,8 @@ C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
 **V. Švábenský**, C. Borchers, E. Fortuna, E. Cloude, D. Gašević | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026fifteen) 
-[[preprint]](https://arxiv.org/pdf/2601.07629) 
+[[preprint]](https://arxiv.org/pdf/2601.07629)
+[[slides]](https://is.muni.cz/publication/2545418/2026-LAK-Fifteen-Years-Learning-Analytics-Research-Topics-Trends-Challenges-slides.pdf) 
 [[data and code]](https://zenodo.org/records/18314709) 
 
 * [45] 🏅 
