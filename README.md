@@ -65,7 +65,7 @@ C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
 [[data and code]](https://zenodo.org/records/18667402) 
 
 * [46] ⭐ 
-(in press) **Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges** \
+[**Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges**](https://dl.acm.org/doi/10.1145/3785022.3785131) \
 **V. Švábenský**, C. Borchers, E. Fortuna, E. Cloude, D. Gašević | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026fifteen) 
@@ -74,7 +74,7 @@ C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
 [[data and code]](https://zenodo.org/records/18314709) 
 
 * [45] 🏅 
-(in press) **Measuring the Impact of Student Gaming Behaviors on Learner Modeling** \
+[**Measuring the Impact of Student Gaming Behaviors on Learner Modeling**](https://dl.acm.org/doi/10.1145/3785022.3785036) \
 Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Liu2026measuring)
