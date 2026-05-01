@@ -54,8 +54,8 @@
 C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal)
-[[preprint]](https://arxiv.org/pdf/2603.28553)  
-[[data]](https://zenodo.org/records/19249686)  
+[[preprint]](https://arxiv.org/pdf/2603.28553)
+[[data]](https://zenodo.org/records/19249686)
 [[code]](https://github.com/conradborchers/bloom-ttx/) 
 
 * [47] ⭐ 
