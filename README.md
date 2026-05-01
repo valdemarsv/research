@@ -54,7 +54,9 @@
 C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal)
-[[preprint]](https://arxiv.org/pdf/2603.28553) 
+[[preprint]](https://arxiv.org/pdf/2603.28553)  
+[[data]](https://zenodo.org/records/19249686)  
+[[code]](https://github.com/conradborchers/bloom-ttx/) 
 
 * [47] ⭐ 
 [**Open Datasets in Learning Analytics: Trends, Challenges, and Best PRACTICE**](https://dl.acm.org/doi/10.1145/3798096) <img width="14" src="https://cdn.simpleicons.org/openaccess"> \
@@ -73,7 +75,7 @@ C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
 [[slides]](https://is.muni.cz/publication/2545418/2026-LAK-Fifteen-Years-Learning-Analytics-Research-Topics-Trends-Challenges-slides.pdf) 
 [[data and code]](https://zenodo.org/records/18314709) 
 
-* [45] 🏅 
+* [45] 🏆 
 [**Measuring the Impact of Student Gaming Behaviors on Learner Modeling**](https://dl.acm.org/doi/10.1145/3785022.3785036) \
 Q. Liu, L. Li, **V. Švábenský**, C. Borchers, M. Khalil | LAK \
   &nbsp;<img width="14" src="img/articleC.png"> 
