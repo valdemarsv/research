@@ -50,7 +50,7 @@
 ### 2026
 
 * [48] 
-(in press) **Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?** \
+[**Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?**](https://doi.org/10.1007/978-3-032-29760-0_47) \
 C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal)
