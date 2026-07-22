@@ -50,8 +50,8 @@
 ### 2026
 
 * [49] 
-(in press) Assessment in Team Problem-Solving Exercises in Computing Education \
-**V. Švábenský**, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada | AIED \
+(in press) **Assessment in Team Problem-Solving Exercises in Computing Education** \
+**V. Švábenský**, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada | IEEE FIE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026assessment)
 [[preprint]](https://arxiv.org/pdf/2607.19209)
