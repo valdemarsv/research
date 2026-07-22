@@ -38,9 +38,9 @@
 
 ## Published peer-reviewed papers
 
-* **48 publications** total — **23x leading author**, published with **75 distinct co-authors**
+* **49 publications** total — **24x leading author**, published with **75 distinct co-authors**
   * <img width="14" src="img/articleJ.png"> **10 journal papers** in international WoS-indexed journals
-  * <img width="14" src="img/articleC.png"> **30 conference papers** in proceedings of international ICORE-ranked conferences
+  * <img width="14" src="img/articleC.png"> **31 conference papers** in proceedings of international ICORE-ranked conferences
   * <img width="14" src="img/articleP.png"> **8 conference poster papers** in proceedings of international ICORE-ranked conferences
 * *Each paper title links to the official publisher's version. Please use [`references.bib`](references.bib) to cite.*
 * | 🏆 | 🏅 | ⭐ | 🚀 | &nbsp;<img width="14" src="https://cdn.simpleicons.org/openaccess"> |
@@ -48,6 +48,15 @@
   | Best Paper Award | Best Paper Nominee | Featured | Highly cited | Open access |
 
 ### 2026
+
+* [49] 
+(in press) Assessment in Team Problem-Solving Exercises in Computing Education \
+**V. Švábenský**, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada | AIED \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026assessment)
+[[preprint]](https://arxiv.org/pdf/2607.19209)
+[[data]](https://zenodo.org/records/19249686)
+[[code]](https://gitlab.fi.muni.cz/inject/papers/2026-fie-assessment) 
 
 * [48] 
 [**Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?**](https://doi.org/10.1007/978-3-032-29760-0_47) \
