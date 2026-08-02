@@ -49,6 +49,14 @@
 
 ### 2026
 
+* [50] 
+(in press) **Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned** \
+J. Vykopal, P. Čeleda, M. Horák, **V. Švábenský** | IEEE FIE \
+  &nbsp;<img width="14" src="img/articleC.png"> 
+[[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Vykopal2026technology)
+[[preprint]](https://arxiv.org/pdf/2607.28179)
+[[platform]](https://inject.muni.cz/) 
+
 * [49] 
 (in press) **Assessment in Team Problem-Solving Exercises in Computing Education** \
 **V. Švábenský**, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada | IEEE FIE \
