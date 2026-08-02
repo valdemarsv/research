@@ -63,7 +63,7 @@ J. Vykopal, P. Čeleda, M. Horák, **V. Švábenský** | IEEE FIE \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Svabensky2026assessment)
 [[preprint]](https://arxiv.org/pdf/2607.19209)
-[[data]](https://zenodo.org/records/19249686)
+[[data]](https://zenodo.org/records/21396276)
 [[code]](https://gitlab.fi.muni.cz/inject/papers/2026-fie-assessment) 
 
 * [48] 
