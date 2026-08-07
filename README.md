@@ -71,7 +71,8 @@ J. Vykopal, P. Čeleda, M. Horák, **V. Švábenský** | IEEE FIE \
 C. Borchers, **V. Švábenský**, S. Kafle, K. Tang, J. Vykopal | AIED \
   &nbsp;<img width="14" src="img/articleC.png"> 
 [[bib]](https://github-link.vercel.app/api?ghUrl=https://github.com/valdemarsv/research/blob/master/references.bib&q=Borchers2026multimodal)
-[[preprint]](https://arxiv.org/pdf/2603.28553)
+[[preprint]](https://arxiv.org/pdf/2603.28553) 
+[[slides]](https://is.muni.cz/publication/2578997/2026-AIED-Multimodal-Analytics-Cybersecurity-Crisis-Preparation-Exercises-What-Predicts-Success-slides.pdf) 
 [[data]](https://zenodo.org/records/19249686)
 [[code]](https://github.com/conradborchers/bloom-ttx/) 
 
